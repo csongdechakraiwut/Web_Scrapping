@@ -1,0 +1,1195 @@
+company_name,employee,founded_year,min_project_size,rating,lower_hourly_rate,upper_hourly_rate,average_hourly_rate,city,state,country,Continent
+Innovative Architects ,medium,2005,10000,,100,149,124.5,Duluth,GA ,USA,North America
+Arbela Technologies ,small,2002,5000,,150,199,174.5,Irvine,CA ,USA,North America
+Equal Experts ,medium,2007,25000,,200,300,250,London,,United Kingdom ,Europe
+Comminus ,small,2004,25000,4,0,,0,Zagreb,, Croatia ,Europe
+PieSoft ,medium,2012,5000,4.8,25,,12.5,Reston,VA ,USA,North America
+greetgo! LLC ,small,2008,25000,5,25,49,37,Almaty,, Kazakhstan ,Asia
+Broscorp ,small,2016,1000,4.8,25,49,37,Dnipro,, Ukraine ,Europe
+Qualex Consulting Services ,medium,1995,25000,4.5,100,149,124.5,Miami,FL,USA,North America
+47Billion ,medium,2014,5000,4.9,25,49,37,Bangalore,, India ,Asia
+BIX Technology ,small,2012,5000,5,50,99,74.5,Florianpolis,, Brazil ,Latin America
+HYR Global Source ,medium,2013,0,,0,,0,Overland Park, KS ,USA,North America
+COCUS AG ,medium,2001,0,,0,,0,Duesseldorf,, Germany ,Europe
+NetAngelS ,small,2007,1000,,25,49,37,Tallinn,, Estonia ,Europe
+Consulthink S.p.A. ,small,2004,10000,,150,199,174.5,Rome,, Italy ,Europe
+Logic Studio ,medium,2003,0,,0,,0,Panama City,, Panama ,Latin America
+"Hiscall, Inc. ",medium,1996,0,,0,,0,Dickson, TN ,USA,North America
+Concept Technology Inc. ,medium,2003,0,,0,,0,Nashville, TN ,USA,North America
+"InfoSystems, Inc. ",medium,1994,0,,0,,0,Chattanooga, TN ,USA,North America
+Nextlink Technology ,medium,2006,0,,0,,0,Taipei City,, Taiwan ,Asia
+SMAP Energy ,small,2016,0,,0,,0,London,,United Kingdom ,Europe
+Sysman Progetti & Servizi ,small,1994,10000,,150,199,174.5,Mesagne,, Italy ,Europe
+Proxation GmbH ,small,2013,5000,,100,149,124.5,Munich,, Germany ,Europe
+Boxfusion Consulting ,small,2010,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Flatworld EDGE ,small,2004,5000,,25,,12.5,Bangalore,, India ,Asia
+North Point Technology ,small,2005,25000,,150,199,174.5,Reston, VA ,USA,North America
+Metafused ,small,2014,0,,0,,0,London,, United Kingdom ,Europe
+AIKnights.com ,small,2018,10000,,50,99,74.5,Alpharetta, GA ,USA,North America
+Bbox Communication ,small,2002,10000,,100,149,124.5,Milan,, Italy ,Europe
+Muoro ,small,2016,25000,,25,49,37,New York, NY ,USA,North America
+Bromsbury Consulting ,small,2016,1000,,50,99,74.5,Bromley,, United Kingdom ,Europe
+Electric Brain ,small,2016,0,,0,,0,Toronto,, Canada ,North America
+Metametrics ,small,2005,0,,0,,0,Bristol,, United Kingdom ,Europe
+GLESEC GROUP ,small,2003,0,,0,,0,Princeton, NJ ,USA,North America
+GlobalBit S.A.S ,small,2010,10000,,150,199,174.5,Medellin,, Colombia ,Latin America
+Conflux Systems ,small,2007,0,,0,,0,Alpharetta, GA ,USA,North America
+Sunbridge Software Services Pvt. Ltd. ,small,2006,1000,,50,99,74.5,Pune,, India ,Asia
+Ascension Strategy ,small,2003,0,,0,,0,Atlanta, GA ,USA,North America
+Code Desk ,small,2010,10000,,100,149,124.5,Dagenham,, United Kingdom ,Europe
+Domain5 ,small,2012,0,,0,,0,Columbia, MD ,USA,North America
+MSA Careers & Consulting ,small,2005,0,,0,,0,West Birmingham,, United Kingdom ,Europe
+GWTI ,small,2008,0,,0,,0,Sao Paulo,, Brazil ,Latin America
+Front Four Group ,small,2007,10000,,25,49,37,Wakefield, MA ,USA,North America
+Polaris Systems Inc ,small,1998,0,,0,,0,Greensboro, NC ,USA,North America
+2021.AI ,medium,2016,25000,,150,199,174.5,Copenhagen,, Denmark ,Europe
+KSM Consulting ,medium,2008,0,,0,,0,Indianapolis, IN ,USA,North America
+Apollogic ,medium,2007,0,,0,,0,Pozna,, Poland ,Europe
+Red Brick Road ,medium,2006,10000,,150,199,174.5,London,, United Kingdom ,Europe
+RealSoft ,medium,2002,10000,,100,149,124.5,Amman,, Jordan ,
+Modyo Chile ,medium,2008,0,,0,,0,Santiago,, Chile ,Latin America
+Engine Lab Software ,small,2013,0,,0,,0,Longford,, Ireland ,
+Lehigh Valley Technology Company ,small,2005,0,,0,,0,Bethlehem, PA ,USA,North America
+Kaft ,small,2012,10000,,25,49,37,Warsaw,, Poland ,Europe
+Archybility Software Development ,small,2016,1000,,25,49,37,Beograd,, Serbia ,Europe
+Icon Resources & Technologies ,medium,1999,0,,0,,0,Singapore,, Singapore ,Asia
+JDC Group ,medium,2005,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+Exage S.p.A. ,medium,2016,10000,,150,199,174.5,Milan,, Italy ,Europe
+Data World ,medium,1995,0,,0,,0, ,,,
+SafeNet ,medium,1994,0,,0,,0, Minnetonka,MN ,USA,North America
+Mike Collins & Associates (MCA) ,medium,1987,0,,0,,0,Chattanooga, TN ,USA,North America
+"DecisivEdge, LLC ",medium,2007,0,,0,,0,Newark, DE ,USA,North America
+Quality Software ,medium,1989,5000,,25,49,37,Sao Paulo,, Brazil ,Latin America
+UKN Group ,medium,1997,5000,,100,149,124.5,Chineham,, United Kingdom ,Europe
+Craterzone pvt ltd ,medium,2013,0,,25,,12.5,Noida,, India ,Asia
+Envion Software ,medium,1984,250000,,50,99,74.5,Boston, MA ,USA,North America
+OPS Consulting ,medium,1999,25000,,150,199,174.5,Hanover, MD ,USA,North America
+Edsson ,medium,2008,1000,,25,49,37,Kyiv,, Ukraine ,Europe
+Sciant ,medium,2016,10000,,25,49,37,Sofia,, Bulgaria ,Europe
+Source Corp ,medium,1999,0,,0,,0,Wilmington, DE ,USA,North America
+"Cybele Software, Inc. ",small,2002,0,,0,,0,Wilmington, DE ,USA,North America
+ZEPCOM ,small,2008,1000,,25,49,37,Karachi,, Pakistan ,Asia
+"Network Technologies, Inc. ",small,1993,0,,0,,0,Olathe, KS ,USA,North America
+SysEne Consulting Inc. ,small,2015,0,,0,,0,Vancouver,, Canada ,North America
+Cubex Systems ,small,2017,50000,,100,149,124.5,Melbourne,, Australia ,Australia
+Mitosis Technologies ,medium,2013,0,,0,,0,Chennai,, India ,Asia
+Intellifusion ,medium,2014,5000,,50,99,74.5,Shenzhen,, China ,Asia
+fram^ ,medium,2013,10000,,150,199,174.5,Ho Chi Minh City,, Vietnam ,Asia
+A.I.M.S. Technology ,medium,2011,5000,,25,49,37,Amravati,, India ,Asia
+Invento Labs LLC ,medium,2009,25000,,25,49,37,Minsk,, Belarus ,Europe
+BUNCH ,medium,2017,1000,,0,,0,Makati,, Philippines ,Asia
+Razor Consulting Solutions ,medium,2010,0,,0,,0,Fargo,ND ,USA,North America
+Springbord ,medium,2016,0,,0,,0,Las vegas, NV ,USA,North America
+Sedin Technologies ,medium,2006,10000,,25,49,37,Chennai,, India ,Asia
+EXP Agency ,small,2000,0,,0,,0,Johannesburg,, South Africa ,Africa
+PARTY ,small,2011,5000,,100,149,124.5,Tokyo,, Japan ,Asia
+Erdos Technologies ,small,2016,5000,,0,,0,New York, NY ,USA,North America
+Aspgems ,small,2006,5000,,25,49,37,Madrid,, Spain ,Europe
+"HellaStorm, Inc. ",small,2012,0,,0,,0,Alpharetta, GA ,USA,North America
+SolGenie ,small,2007,0,,0,,0,Norcross, GA ,USA,North America
+Computer Services Ltd. ,medium,1987,0,,0,,0,Dhaka,, Bangladesh ,Asia
+eGeneration ,medium,2003,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Atom AP Limited ,medium,2015,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Expert Systems Holdings Limited ,medium,1994,5000,,100,149,124.5,Kwun Tong,," Hong Kong S.A.R., China ",Asia
+SOIN ,medium,2015,0,,0,,0,San Jose,, Costa Rica ,Latin America
+UTH International ,medium,2012,1000,,50,99,74.5,Shanghai,, China ,Asia
+data edge limited ,medium,2002,25000,,0,,0,Dhaka,, Bangladesh ,Asia
+Wunderman Phantasia ,medium,1998,10000,,100,149,124.5,Lima,, Peru ,Latin America
+RAS Infotech ,medium,2000,1000,,0,,0,Dubai,, United Arab Emirates ,Asia
+Tallgrass Technologies ,medium,1987,0,,0,,0,Lenexa, KS ,USA,North America
+Altus ,medium,2014,0,,0,,0,Brentwood, TN ,USA,North America
+SETEL UC ,medium,1974,0,,0,,0,Brentwood, TN ,USA,North America
+Cepra ,medium,1989,0,,0,,0, Mexico city,,Mexico ,North America
+Business Data Miners ,small,2009,5000,4.7,200,300,250,Weston, MA ,USA,North America
+3Q Digital ,medium,2008,50000,4.8,0,,0,San Mateo, CA ,USA,North America
+Cartesian Consulting ,medium,2009,10000,5,25,49,37,Mumbai,, India ,Asia
+Keyrus ,large,1996,25000,4.6,150,199,174.5,New York, NY ,USA,North America
+Clairvoyant ,medium,2012,50000,4.8,100,149,124.5,Chandler, AZ ,USA,North America
+Pinnacle Solutions ,small,1996,10000,4.8,100,149,124.5,Indianapolis, IN ,USA,North America
+Periscope (Formerly Anthem Marketing Solutions) ,medium,2004,10000,5,150,199,174.5,Chicago, IL ,USA,North America
+Treselle Systems ,medium,2004,5000,5,25,49,37,Chennai,, India ,Asia
+Rudder Analytics ,small,2015,10000,5,25,49,37,Pune,, India ,Asia
+LatentView Analytics ,medium,2006,1000,4.5,150,199,174.5,Princeton, NJ ,USA,North America
+Indium Software ,medium,1999,0,4.7,25,,12.5,Princeton, NJ ,USA,North America
+GetInData ,small,2014,5000,4.9,50,99,74.5,Warsaw,, Poland  ,Europe
+Brightblue Consulting ,small,2012,10000,4.4,150,199,174.5,London,, United Kingdom ,Europe
+Beyond Analysis ,small,2007,25000,4.7,100,149,124.5,Wimbledon,, United Kingdom ,Europe
+Altar.io ,small,2015,25000,4.8,100,149,124.5,Lisboa,, Portugal ,Europe
+Denologix ,medium,2002,10000,4.5,150,199,174.5,Toronto,, Canada ,North America
+VISUAL BI SOLUTIONS ,medium,2010,5000,4.5,150,199,174.5,Plano, TX ,USA,North America
+Kavi Global ,small,2008,10000,4.8,150,199,174.5,Barrington, IL ,USA,North America
+Caserta ,small,2001,75000,4.6,0,,0,New York, NY ,USA,North America
+Krish Compusoft Services Inc. ,medium,2001,100000,5,25,49,37,Iselin, NJ ,USA,North America
+enautics ,small,2005,50000,5,200,300,250,Austin, TX ,USA,North America
+Affirma Consulting ,medium,2001,5000,4.7,100,149,124.5,Bellevue, WA ,USA,North America
+"RapidOps, Inc. ",medium,2008,5000,4.9,25,49,37,Charlotte, NC ,USA,North America
+ThirdEye Data ,medium,2010,25000,4.7,50,99,74.5,Santa Clara, CA ,USA,North America
+RiskIQ ,medium,2009,5000,5,150,199,174.5,San Francisco, CA ,USA,North America
+Virtuozzo ,medium,1999,50000,5,300+,,#VALUE!,Bellevue,WA ,USA,North America
+Datamum ,Freelancer,2011,5000,5,150,199,174.5,Cordova, TN ,USA,North America
+SoftwareMill ,medium,2009,10000,5,50,99,74.5,Warsaw,, Poland ,Europe
+DataSelf ,small,2005,5000,4.5,150,199,174.5,San Jose, CA ,USA,North America
+DM STAT-1 Consulting ,small,1994,5000,4.7,100,149,124.5,North Woodmere, NY ,USA,North America
+Nevron Software ,small,1998,5000,4.8,50,99,74.5,Sofia,, Bulgaria ,Europe
+DataLab USA ,medium,1979,1000,5,150,199,174.5,Germantown, MD ,USA,North America
+Prime TSR ,medium,2013,0,5,0,,0,Chicago, IL ,USA,North America
+Softweb Solutions ,medium,2006,50000,5,150,199,174.5,Elgin,IL,USA,North America
+51zero ,small,2009,50000,5,200,300,250,London,, United Kingdom ,Europe
+PwC Data Analytics ,very large,1998,25000,,0,,0,Warsaw,, Poland ,Europe
+Logikview Analytics ,small,2016,5000,5,25,49,37,indore,, India ,Asia
+TogetherData ,medium,2016,10000,5,150,199,174.5,Warsaw,, Poland ,Europe
+Maestro Technologies ,small,2003,10000,5,100,149,124.5,Edison, NJ ,USA,North America
+Crystalloids ,small,2006,1000,5,100,149,124.5,Amsterdam-Duivendrecht,, Netherlands ,Europe
+FULLeSTOP ,medium,2001,5000,4.8,25,,12.5,Jaipur,, India ,Asia
+The Dayhuff Group ,medium,1997,0,4.7,150,199,174.5,Columbus, OH ,USA,North America
+Klardata ,Freelancer,2017,1000,4,100,149,124.5,San Francisco, CA ,USA,North America
+The APP Solutions ,medium,2013,5000,4.9,50,99,74.5,Kyiv,, Ukraine ,Europe
+Whites Agency ,medium,2012,5000,4.5,50,99,74.5,Warsaw,, Poland ,Europe
+"JEVERA (ex. JBS, LLC) ",medium,2009,10000,5,25,49,37,Chaiky,, Ukraine ,Europe
+Appsbee Software LLC ,medium,2010,10000,5,25,49,37,Lehi, UT ,USA,North America
+Havooz ICT Services ,small,2011,0,5,25,49,37,Istanbul ,, Turkey ,Asia
+Data Reply ,small,2015,5000,4.3,100,149,124.5,London,, United Kingdom ,Europe
+Dexlock ,medium,2012,25000,4.6,50,99,74.5,Kochi,, India ,Asia
+SCI-BI ,small,2012,10000,5,25,,12.5,Chennai,, India ,Asia
+Knoldus Inc. ,medium,2010,25000,4.8,50,99,74.5,Mississauga,, Canada ,North America
+NeenOpal Intelligent Solutions ,small,2016,10000,5,50,99,74.5,New York, NY ,USA,North America
+HatchWorks Technologies ,medium,2016,25000,4.9,100,149,124.5,Atlanta, GA ,USA,North America
+SmartCat ,small,2015,5000,5,50,99,74.5,Novi Sad,, Serbia ,Europe
+DataLabs ,small,2015,5000,4.5,50,99,74.5,Dnipro,, Ukraine ,Europe
+ITRex Group ,medium,2009,10000,4.9,25,49,37,Minsk,, Belarus ,Europe
+Leale Solutions ,small,2007,5000,5,25,49,37,Boca Raton,,USA,North America
+Codete ,medium,2010,50000,4.7,50,99,74.5,Berlin,, Germany ,Europe
+ValueLabs ,large,1997,0,4.3,0,,0,Hyderabad,, India ,Asia
+MOST Programming ,small,2016,1000,4.8,0,,0,Denver, CO ,USA,North America
+Techmango Technology Services Private Limited ,medium,2014,1000,5,25,49,37,Madurai,, India ,Asia
+Actiknow Consulting Private Limited ,medium,2011,10000,5,25,49,37,New Delhi,, India ,Asia
+FreshCode ,medium,2014,10000,4.9,25,49,37,Zaporizhzhya,, Ukraine ,Europe
+Light IT ,medium,2006,5000,4.9,25,49,37,Zaporizhzhia,, Ukraine ,Europe
+Pegasus One ,medium,2004,10000,4.9,25,49,37,Fullerton, CA ,USA,North America
+Predica ,medium,2009,5000,4.5,50,99,74.5,Warsaw,, Poland ,Europe
+Aptitive ,small,2013,5000,4.5,150,199,174.5,Chicago, IL ,USA,North America
+VRP Consulting ,medium,1998,5000,4.8,50,99,74.5,San Francisco, CA ,USA,North America
+Unique Software Development LLC ,medium,2012,25000,5,50,99,74.5,Dallas, TX ,USA,North America
+OrangeMantra ,medium,2001,5000,5,25,,12.5,Gurgaon,, India ,Asia
+Analytiks ,small,2017,1000,5,50,99,74.5,Seattle, WA ,USA,North America
+Addepto ,small,2017,5000,5,25,49,37,Warsaw,, Poland ,Europe
+Saviant Consulting ,medium,2012,0,4.8,0,,0,Pune,, India ,Asia
+Technofox Solution ,small,2014,10000,4.8,25,49,37,philadelphia, PA ,USA,North America
+Massive Insights Inc. ,small,2012,0,4.5,0,,0,Toronto,, Canada ,North America
+Tech9 ,small,2015,5000,4.9,50,99,74.5,Draper, UT ,USA,North America
+KiZAN Technologies ,medium,1991,5000,5,150,199,174.5,Louisville, KY ,USA,North America
+Utegration ,medium,2008,1000,5,150,199,174.5,Houston, TX ,USA,North America
+Brainspire Solutions ,small,2013,25000,5,100,149,124.5,Parker, CO ,USA,North America
+AM-BITS ,small,2016,10000,5,25,49,37,Kiev,, Ukraine ,Europe
+Traction Consulting Group - TractionCRM.com ,small,1999,0,4.9,150,199,174.5,Wixom, MI ,USA,North America
+DOIT Software ,small,2014,5000,4.8,25,49,37,Boston, MA ,USA,North America
+Dataforest ,small,2018,5000,5,25,49,37,Kiev,, Ukraine ,Europe
+Ideas2IT Technologies ,medium,2008,5000,4.7,25,49,37,Chennai,, India ,Asia
+Rock Your Data ,small,2017,1000,5,150,199,174.5,Vancouver,, Canada ,North America
+DataEngi ,small,2017,10000,5,50,99,74.5,Vilnius,, Lithuania ,Europe
+Arcane Future ,small,2018,1000,5,25,49,37,Kiev,, Ukraine ,Europe
+SoftElegance ,small,1993,10000,4.6,25,49,37,Kyiv,, Ukraine ,Europe
+Quatrro ,medium,2013,1000,4.1,25,,12.5,Marietta, GA ,USA,North America
+Analytics-Based Performance Management ,Freelancer,2012,5000,5,200,300,250,Cary, NC ,USA,North America
+Maruti Techlabs ,medium,2009,5000,4.9,25,49,37,Ahmedabad,, India ,Asia
+"Algoscale Technologies, Inc. ",small,2014,5000,4.5,25,,12.5,Noida,, India ,Asia
+Margasoft Corp. ,small,2005,10000,4.8,50,99,74.5,Burbank, CA ,USA,North America
+Cobra Legal Solutions ,medium,2007,1000,5,25,,12.5,Austin, TX ,USA,North America
+Joss Technology (Acquired by AIM Software) ,small,2010,0,5,150,199,174.5,New York, NY ,USA,North America
+Perfsys ,medium,2013,1000,5,25,49,37,Tallinn,, Estonia ,Europe
+NobleSoft ,small,2012,25000,4.8,50,99,74.5,Pozna,, Poland ,Europe
+ElkanIO Research Labs ,small,2017,5000,4.8,25,,12.5,Cochin,, India ,Asia
+GroupBWT ,small,2009,5000,4.8,25,49,37,Zaporizhia,, Ukraine ,Europe
+EdgeCase Technology ,medium,2015,10000,5,25,49,37,Berlin,, Germany ,Europe
+Sigmoidal ,small,2016,1000,5,50,99,74.5,New York, NY ,USA,North America
+Soren Innovations ,small,2008,5000,5,150,199,174.5,Salt Lake City, UT ,USA,North America
+Global Infonet ,small,2001,0,5,0,,0,Jacksonville,,USA,North America
+NthDimenzion Solutions ,small,2007,0,4.4,25,49,37,Bangalore,, India ,Asia
+InsightWhale ,small,2016,1000,4.8,50,99,74.5,Moscow,, Russia ,Europe
+Intellectyx Inc ,medium,2008,25000,4.8,25,49,37,Denver, CO ,USA,North America
+Graphics Zoo ,medium,2010,1000,5,50,99,74.5,Sugar Land, TX ,USA,North America
+VITech ,medium,2008,50000,4.7,25,49,37,Lviv,, Ukraine ,Europe
+GEON Analytics ,small,2015,5000,5,100,149,124.5,San Antonio, TX ,USA,North America
+Cycloides ,medium,2013,10000,4.5,25,49,37,Mississauga,, Canada ,North America
+Treehouse Technology Group ,small,2014,1000,5,0,,0,Manchester, NH ,USA,North America
+App Annie ,medium,2010,5000,,100,149,124.5,San Francisco, CA ,USA,North America
+Codeheroes ,small,2015,0,5,50,99,74.5,Krakow,, Poland ,Europe
+StackBoost ,small,2019,5000,5,100,149,124.5,New York, NY ,USA,North America
+Multisistemas ,small,2011,5000,4.5,25,49,37,Santa Tecla,, El Salvador ,Europe
+noBSdigital ,Freelancer,2018,1000,4.3,100,149,124.5,Toronto,, Canada ,North America
+MindCraft ,small,2017,1000,5,50,99,74.5,Lviv,, Ukraine ,Europe
+Telexar ,small,2017,1000,4.9,25,,12.5,Colombo,, Sri Lanka ,Asia
+Visata ,small,2016,5000,5,25,,12.5,Vilnius,, Lithuania ,Europe
+HiFX IT & Media Services ,medium,2001,10000,5,25,49,37,Cochin,, India ,Asia
+Liquid Technologies ,small,2017,1000,5,25,,12.5,Karachi,, Pakistan ,Asia
+VirtusLab ,medium,2009,10000,4.1,100,149,124.5,Krakow,, Poland ,Europe
+Dressler Consulting ,medium,2003,75000,4.5,0,,0,Merrick, NY ,USA,North America
+Smart Design ,small,2009,10000,4.8,25,49,37,St Petersburg,, Russia ,Europe
+Semantive ,small,2012,10000,4.5,50,99,74.5,Warszawa,, Poland ,Europe
+CodeBerry Solutions ,small,2017,5000,5,25,49,37,Sanford, NC ,USA,North America
+Napal Innovation ,small,2016,5000,5,50,99,74.5,Paris,, France ,Europe
+Lemay.ai ,small,2016,25000,4.8,200,300,250,Ottawa,,Canada ,North America
+Allomate Solutions ,small,2017,5000,4.5,25,49,37,Lahore,, Pakistan ,Asia
+Evgsoft ,small,2014,1000,5,25,49,37,Chicago, IL ,USA,North America
+Happiest Minds Technologies ,large,2011,5000,4.5,50,99,74.5,Bengaluru,, India ,Asia
+Securonix ,medium,2007,10000,,150,199,174.5,Addison, TX ,USA,North America
+CIGNEX Datamatics ,medium,2000,0,,0,,0,Ahmedabad,, India ,Asia
+Blacklight Solutions ,small,2009,0,,150,199,174.5,Austin, TX ,USA,North America
+NorthBay ,medium,2007,0,5,50,99,74.5,Boston, MA ,USA,North America
+Kroll ,large,1972,5000,,150,199,174.5,New York, NY ,USA,North America
+CapTech ,medium,1997,10000,,100,149,124.5,Richmond, VA ,USA,North America
+SOFTVAN ,medium,2014,5000,,25,49,37,Ahmedabad,, India ,Asia
+AMULET Analytics ,Freelancer,2012,0,,50,99,74.5,Los Angeles, CA ,USA,North America
+NFLabs ,small,2011,0,,100,149,124.5,Seoul,, South Korea ,Asia
+Shugert Marketing ,small,2006,1000,4.5,50,99,74.5,Hermosillo,, Mexico ,North America
+CloudMoyo ,medium,2015,50000,,50,99,74.5,Bellevue, WA ,USA,North America
+Skalable Technologies ,small,2008,25000,4,50,99,74.5,San Jose, CA ,USA,North America
+IT Respublica ,small,2013,25000,5,25,49,37,Vilnius,, Lithuania ,Europe
+Virtuas ,small,2017,1000,5,150,199,174.5,Houston, TX ,USA,North America
+Broadside Digital Intelligence (BDI) ,small,2010,10000,5,0,,0,Burnaby,, Canada ,North America
+CloudNesil ,small,2013,25000,4.4,25,49,37,Denizli,, Turkey ,Asia
+MindQuad Solutions Pvt. Ltd. ,medium,2008,100000,4.5,25,49,37,Ahmedabad,, India ,Asia
+60mn ,small,2018,1000,5,150,199,174.5,Paris,, France ,Europe
+INFINIT Consulting ,small,2006,0,,25,49,37,Campbell, CA ,USA,North America
+PSC Group ,medium,1990,1000,,150,199,174.5,Schaumburg, IL ,USA,North America
+Tryolabs ,small,2010,0,,100,149,124.5,  ,,,
+Sparity Inc ,medium,2010,5000,,25,,12.5,Alpharetta, GA ,USA,North America
+Intelligence Partner ,medium,2009,0,,150,199,174.5,Madrid,, Spain ,Europe
+InfoStrat ,small,1987,0,,100,149,124.5,Washington, DC ,USA,North America
+Covalense ,medium,2006,10000,,25,49,37,Sydney,, Australia ,Australia
+BlueApple Technologies Pvt Ltd ,medium,2000,5000,,25,,12.5,NOIDA,, India ,Asia
+IronEdge ,small,2005,10000,,150,199,174.5,Houston, TX ,USA,North America
+Impressico Business Solutions Inc. ,medium,2009,1000,,25,,12.5,Noida,, India ,Asia
+Inspirage ,medium,2007,10000,,150,199,174.5,Bellevue, WA ,USA,North America
+Xpand IT ,medium,2003,1000,,50,99,74.5,Lisboa,, Portugal ,Europe
+GramEner Technology Solutions ,small,2010,0,,0,,0,Hyderabad,, India ,Asia
+47 Degrees ,small,2010,5000,,0,,0,Seattle, WA ,USA,North America
+Aderant ,medium,1978,0,,50,99,74.5,Atlanta, GA ,USA,North America
+WaveAccess ,medium,2000,0,,50,99,74.5,Las Vegas, NV ,USA,North America
+Improving ,medium,2006,10000,,150,199,174.5,Houston, TX ,USA,North America
+Kainos ,medium,1986,50000,,200,300,250,London,, United Kingdom ,Europe
+Rolta ,large,1982,25000,,150,199,174.5,Mumbai,, India ,Asia
+TalkingData ,medium,2011,5000,,50,99,74.5,Beijing,, China ,Asia
+AdMaster ,medium,2010,1000,,25,49,37,Beijing,, China ,Asia
+Jiguang ,medium,2011,5000,,100,149,124.5,Shenzhen,, China ,Asia
+iSoftStone ,very large,2001,5000,,100,149,124.5,Beijing,, China ,Asia
+Protiviti ,large,2002,1000,,50,99,74.5,San Francisco, CA ,USA,North America
+Reply ,large,1996,5000,,100,149,124.5,Torino,, Italy ,Europe
+Luxoft ,very large,2000,5000,,100,149,124.5,Bucharest,, Romania ,Europe
+North Highland ,large,1992,10000,,100,149,124.5,Atlanta,GA,USA,North America
+Anaconda ,medium,2012,5000,,100,149,124.5,Austin, TX ,USA,North America
+SHL ,medium,1977,0,,0,,0,London, ,United Kingdom ,Europe
+Think Big Analytics ,medium,2010,5000,,100,149,124.5,Santa Clara, CA ,USA,North America
+NetApp ,very large,1992,5000,,50,99,74.5,Sunnyvale, CA ,USA,North America
+Neudesic ,medium,2002,25000,,100,149,124.5,Irvine, CA ,USA,North America
+Datawatch Corporation ,medium,1985,0,,0,,0,Greensboro, NC ,USA,North America
+Recorded Future ,medium,2009,0,,0,,0,Somerville, MA ,USA,North America
+INNTEC ,small,2012,5000,,25,49,37,Vilnius,, Lithuania ,Europe
+Emorphis Technology ,medium,2010,1000,,25,,12.5,Indore,, India ,Asia
+Darkhorse Analytics ,small,2008,5000,,100,149,124.5,Edmonton,, Canada ,North America
+Fractal Analytics ,large,2000,0,,25,49,37,Jersey City, NJ ,USA,North America
+APEX Analytix ,medium,1988,0,,0,,0,Greensboro, NC ,USA,North America
+EWSolutions ,medium,1997,25000,,50,99,74.5,Bloomingdale, IL ,USA,North America
+Grepsr ,small,2012,5000,,50,99,74.5,Kathmandu,, Nepal ,Asia
+Pactera ,very large,1995,5000,,100,149,124.5,Beijing,, China ,Asia
+Beijing Teamsun technology ,large,1998,5000,,100,149,124.5,Beijing,, China ,Asia
+CloverDX ,medium,2002,0,,0,,0,Arlington, VA ,USA,North America
+PingCAP ,medium,2015,5000,,100,149,124.5,San Mateo, CA ,USA,North America
+EXASOL AG ,medium,2000,0,,150,199,174.5,Nuremberg,, Germany ,Europe
+Gridsum ,medium,2005,5000,,100,149,124.5,Beijing,, China ,Asia
+Nexidia ,medium,2000,0,,0,,0,Atlanta, GA ,USA,North America
+Stefanini ,very large,1987,10000,,150,199,174.5,Sao Paulo,, Brazil ,Latin America
+ChinaSoft International ,very large,2000,5000,,100,149,124.5,Beijing,, China ,Asia
+Media iQ Digital Ltd ,medium,2010,10000,,150,199,174.5,Holborn,, United Kingdom ,Europe
+Tamr Inc. ,medium,2012,0,,0,,0,Cambridge, MA ,USA,North America
+Alation ,medium,2012,0,,0,,0,Redwood City, CA ,USA,North America
+Attivio ,medium,2007,0,,0,,0,Boston, MA ,USA,North America
+Saelum ,small,2018,1000,,25,,12.5,Beijing,, China ,Asia
+Shamrock Digital ,small,2011,0,,0,,0,Kansas City, KS ,USA,North America
+Punchcard Systems ,small,2015,0,,0,,0,Edmonton,, Canada ,North America
+"Quantum FBI, LLC ",small,2016,10000,,100,149,124.5,New York, NY ,USA,North America
+All Things SEO ,small,2014,10000,,150,199,174.5,Birmingham,, United Kingdom ,Europe
+Charm City Networks ,small,2007,0,,0,,0,Baltimore, MD ,USA,North America
+"Owens Telecom Services, Inc. ",small,1999,0,,0,,0,Lebanon, TN ,USA,North America
+"Network Solutions Group, LLC ",small,1999,0,,0,,0,Nashville, TN ,USA,North America
+CACIOPEE ,small,2001,0,,0,,0,Rabat,, Morocco ,
+NetLabs ,small,1998,0,,0,,0,Montevideo,, Uruguay ,Latin America
+MouseCalls Technology Solutions ,small,1998,0,,0,,0,Nashville, TN ,USA,North America
+iRis Networks ,small,1998,0,,0,,0,Nashville, TN ,USA,North America
+"M.A. Polce Consulting, Inc. ",small,1998,5000,,100,149,124.5,Rome, NY ,USA,North America
+QED National ,small,1993,10000,,25,49,37,New York, NY ,USA,North America
+iRonin.IT ,small,2011,0,,0,,0,Warszawa,, Poland ,Europe
+M7 Managed Services ,small,2007,5000,,100,149,124.5,Nantgarw,, United Kingdom ,Europe
+Digital Works ,medium,2015,0,,0,,0,Rabat,, Morocco ,Africa
+Kitquant ,Freelancer,2016,10000,,100,149,124.5,New York, NY ,USA,North America
+Jaque ,medium,2013,0,,0,,0,Mexico City,, Mexico ,North America
+10xDS - Exponential Digital Solutions ,medium,2016,0,,0,,0,Dubai,, United Arab Emirates ,Asia
+Design is Dead ,small,1999,10000,,100,149,124.5,Brussels,, Belgium ,Europe
+Pentabay Softwares Inc ,small,2018,1000,,25,,12.5,Oakville,, Canada ,North America
+TROY ICT Malaysia ,small,2016,10000,,100,149,124.5,Kuala Lumpur,, Malaysia ,Asia
+Data Venture Solutions Ltd. ,small,2018,5000,,25,49,37,Leeds,, United Kingdom ,Europe
+UsefulBI ,small,2014,0,,0,,0,Boston, MA ,USA,North America
+TPS Engage ,small,2013,5000,,100,149,124.5,Bucharest,, Romania ,Europe
+Block 8 Digital ,small,2012,10000,,150,199,174.5,Macclesfield,, United Kingdom ,Europe
+Metric Central ,small,2019,1000,,0,,0,Warwick,, United Kingdom ,Europe
+Solusoft Panama ,medium,1990,0,,0,,0,Curundu,, Panama ,Latin America
+Vertisystem ,medium,2007,10000,,25,49,37,Fremont, CA ,USA,North America
+Acclivis Technologies and Solutions ,medium,2009,1000,,25,49,37,Singapore,, Singapore ,Asia
+CirrusLabs ,medium,2005,0,,0,,0,Alpharetta, GA ,USA,North America
+MEMOS Software ,medium,2003,5000,,50,99,74.5,Prague,, Czech Republic ,Europe
+Cenacle ,Freelancer,2012,0,,100,149,124.5,Vijayawada,, India ,Asia
+Tachyon Technologies ,medium,2012,10000,,150,199,174.5,Irving, TX ,USA,North America
+Airnet Group ,small,2002,0,,0,,0,Chattanooga, TN ,USA,North America
+Softlanding ,small,2000,10000,,100,149,124.5,Vancouver,, Canada ,North America
+i3solutions ,small,1996,25000,,150,199,174.5,Sterling, VA ,USA,North America
+Mindzilla ,small,2009,0,,0,,0,London,, United Kingdom ,Europe
+Atchai Digital ,small,2010,0,,0,,0,London,, United Kingdom ,Europe
+BMB SERVICES ,small,2011,10000,,100,149,124.5,Paris,, France ,Europe
+Celebal Technologies ,medium,2015,50000,,25,49,37, ,,,
+KaNex ,medium,2012,5000,,50,99,74.5, Singapore ,,Singapore ,Asia
+Teleion Consulting ,medium,2008,5000,,100,149,124.5,Seattle, WA ,USA,North America
+Red Ninja Studios ,small,2011,0,,0,,0,Liverpool,, United Kingdom ,Europe
+Ensitech ,small,2005,0,,0,,0,Monterrey,, Mexico ,North America
+C/D/H ,small,1990,5000,,100,149,124.5,Grand Rapids, MI ,USA,North America
+Resolute Digital ,small,2008,5000,,100,149,124.5,New York, NY ,USA,North America
+ROK Technologies ,small,1997,0,,0,,0,Charleston, SC ,USA,North America
+Virtual Viewing ,small,1995,10000,,150,199,174.5,Milton Keynes,, United Kingdom ,Europe
+Cloud Horizon Technologies ,small,2009,5000,,25,49,37,Ville Saint-Laurent,, Canada ,North America
+Freya Systems ,small,2009,10000,,100,149,124.5,Media, PA ,USA,North America
+Laris Media ,small,2006,0,,100,149,124.5,Virginia Beach, VA ,USA,North America
+SOFTEL Communications ,small,1993,5000,,150,199,174.5,Montreal,, Canada ,North America
+Cloudster Brasil ,small,2011,0,,0,,0,Curitiba,, Brazil ,Latin America
+Syscloud ,medium,2012,1000,,25,49,37,Beijing,, China ,Asia
+SimTech IT Solutions Private Limited ,medium,2009,10000,,25,49,37,Bangalore,, India ,Asia
+Steinfeld Legal ,medium,2015,1000,,25,,12.5,Krakow,, Poland ,Europe
+Fearless ,medium,2009,100000,,150,199,174.5,Baltimore, MD ,USA,North America
+LightCastle Partners Ltd ,small,2013,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Functional Imperative ,small,2012,25000,,25,49,37,Toronto,, Canada ,North America
+Abakus ,small,1995,5000,,25,49,37,Paris,, France ,Europe
+Precognox ,small,2008,10000,,50,99,74.5,Budapest,, Hungary ,Europe
+CATCH Intelligence ,small,2001,0,,0,,0,Omaha, NE ,USA,North America
+MacBusiness Consulting ,small,1993,0,,0,,0,Honolulu, HI ,USA,North America
+BSS ,medium,2007,25000,,0,,0,Mexico City,,Mexico ,North America
+United Virtualities ,medium,2009,50000,,0,,0,New York, NY ,USA,North America
+Factmata ,small,2017,0,,0,,0,London,, United Kingdom ,Europe
+From Scratch Co. ,small,2010,5000,,100,149,124.5,Tokyo,,Japan ,Asia
+FRONTLINE ,small,2010,5000,,100,149,124.5, Singapore,,Singapore ,Asia
+Clear Measure ,small,2013,5000,,100,149,124.5,Austin, TX ,USA,North America
+Simplica Corporation ,small,1999,0,,0,,0,Wilmington, DE ,USA,North America
+Alboradait ,small,2009,5000,,25,49,37,Almera,,USA,North America
+Xelleration LLC ,small,2001,0,,0,,0,Irvine, CA ,USA,North America
+AnythingCloud ,small,1999,25000,,0,,0,Carrollton, TX ,USA,North America
+Data Cowboys ,small,2014,1000,,100,149,124.5,Seattle, WA ,USA,North America
+Chatmine Technologies ,small,2006,0,,0,,0,Wayland, MA ,USA,North America
+Hosting Ultraso ,small,2014,0,,0,,0,Kolkata,, India ,Asia
+ECI e-automate ,small,1995,0,,0,,0,Provo,UT ,USA,North America
+SimplyPHP ,small,2005,0,,0,,0,Montreal,, Canada ,North America
+DEEPHi ,small,2016,5000,,50,99,74.5,Beijing,, China ,Asia
+Soho Dragon ,small,2010,0,,0,,0,New York, NY ,USA,North America
+Datalytyx ,small,2005,10000,,150,199,174.5,London,, United Kingdom ,Europe
+"3SAE Technologies, Inc. ",small,2000,0,,0,,0,Franklin, TN ,USA,North America
+MouseCalls Technology Solutions ,small,1998,0,,0,,0,Nashville, TN ,USA,North America
+Varsity Technologies ,small,1997,5000,,100,149,124.5,San Francisco, CA ,USA,North America
+Cirrhus9 ,small,2008,5000,,100,149,124.5,Escondido, CA ,USA,North America
+Agile IT ,small,2006,5000,,100,149,124.5,San Diego, CA ,USA,North America
+The IT Company LLC ,small,2003,0,,0,,0,Knoxville, TN ,USA,North America
+"Integracon Technologies, LLC ",small,2001,0,,0,,0,Knoxville, TN ,USA,North America
+"EpiOn, LLC ",small,1997,0,,0,,0,Cookeville,TN ,USA,North America
+BMP Technologies ,small,2016,0,,0,,0,Sydney,, Australia ,Australia
+GURU ,small,1995,0,,0,,0,Gaithersburg, MD ,USA,North America
+IntellEcomm Management Consultants Inc ,small,2000,0,,0,,0,Toronto,, Canada ,North America
+WINKAM Lab ,small,2014,10000,,50,99,74.5,Novosibirsk,, Russia ,Europe
+4its GmbH ,small,2011,5000,,100,149,124.5,Hamburg,, Germany ,Europe
+INNOVATION HUB CONSULTING ,small,2015,10000,,100,149,124.5,Lima,, Peru ,Latin America
+Digital Village ,small,2016,5000,,0,,0,Sydney,, Australia ,Australia
+"BYTE ME Consulting, Inc. ",small,2000,0,,0,,0,Lawrence, KS ,USA,North America
+Grupo Audax ,small,2003,5000,,25,49,37,Sao Paulo,, Brazil ,Latin America
+Architecting Innovation ,small,2010,0,,0,,0,Dallas, TX ,USA,North America
+ZN Consulting ,small,2003,10000,,100,149,124.5,Ixelles,, Belgium ,Europe
+Kavaa Global Services ,small,2000,10000,,100,149,124.5,Rabat,, Morocco ,Africa
+Global Surface Intelligence ,small,2012,0,,0,,0,Edinburgh,, United Kingdom ,Europe
+FIN.by ,small,2010,10000,,25,49,37,Minsk,, Belarus ,Europe
+masterIT ,small,2006,0,,0,,0,Memphis, TN ,USA,North America
+ImageQuest LLC ,small,2007,0,,0,,0,Nashville, TN ,USA,North America
+Final Source ,small,2003,0,,0,,0,Memphis, TN ,USA,North America
+3s Global Business Solutions ,small,2007,10000,,25,49,37,Canoga Park,CA,USA,North America
+Sigmaways ,small,2006,10000,,25,49,37,Fremont, CA ,USA,North America
+Intelliarts Ltd. ,small,1999,0,,25,49,37,Lviv,, Ukraine ,Europe
+Frontier Technologies Inc. ,small,1989,0,,0,,0,Wilmington, DE ,USA,North America
+iauro systems Pvt Ltd ,small,2009,0,,25,49,37,Pune,, India ,Asia
+Flyaps - software development company ,small,2010,10000,,25,49,37,Dnipro,, Ukraine ,Europe
+SigDelta ,small,2016,5000,,50,99,74.5,Warszawa,, Poland ,Europe
+C3 Insight Group Inc. ,small,2014,0,,0,,0,Toronto,, Canada ,North America
+"Partner Economy, LLC ",small,2014,5000,,150,199,174.5,San Francsico, CA ,USA,North America
+9Piecesof8 Software Labs LLC ,small,2014,0,,0,,0,Buffalo, WY ,USA,North America
+Akkomplish Consulting Pvt. Ltd. ,small,2015,0,,25,49,37,Ahmedabad,, India ,Asia
+Newtyne ,small,2004,0,,0,,0,Edinburgh,, United Kingdom ,Europe
+Zuni ,small,2010,5000,,100,149,124.5,Stanmore,, Australia ,Australia
+Fugumobile ,small,2006,5000,,50,99,74.5,Shanghai,, China ,Asia
+Frogworks ,small,2002,0,,0,,0,Waldorf, MD ,USA,North America
+"Integrated Communications, Inc. ",small,1995,0,,0,,0,Memphis, TN ,USA,North America
+HeyDay Pro ,small,2000,5000,,100,149,124.5,Helsinki,, Finland ,Europe
+"Source One Business Services, LLC ",small,1986,5000,,100,149,124.5,Ellicott City, MD ,USA,North America
+CTrends Software & Services Ltd. ,small,2015,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Azolution Software & Engineers Limited ,small,2010,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Computer Lab ,small,2016,10000,,150,199,174.5,New York, NY ,USA,North America
+Goodform ,small,2002,10000,,150,199,174.5,Royal Leamington Spa,, United Kingdom ,Europe
+United Business Applications ,small,2002,10000,,100,149,124.5,Amman,, Jordan ,Asia
+Happiness Saigon ,small,2014,0,,0,,0,Ho Chi Minh City,, Vietnam ,Asia
+Kraft Technology Group ,small,1992,0,,0,,0,Nashville, TN ,USA,North America
+PAXIS Technologies ,small,1981,0,,0,,0,Knoxville, TN ,USA,North America
+CCR Technologies ,small,2003,5000,,25,,12.5,New Jersey, NJ ,USA,North America
+"LanLink Communications, LLC ",small,2000,0,,0,,0,Murfreesboro, TN ,USA,North America
+Cablelink Solutions ,small,1997,0,,0,,0,Murfreesboro, TN ,USA,North America
+"Advanced Communications, Inc. ",small,1985,0,,0,,0,Morristown, TN ,USA,North America
+Stringfellow Technology Group ,small,2005,0,,0,,0,Nashville, TN ,USA,North America
+"Lumenos Technologies, Inc ",small,2009,0,,0,,0,Chattanooga, TN ,USA,North America
+"Gravity Networks, LLC ",small,2010,0,,0,,0,Knoxville, TN ,USA,North America
+"Cloud 9 Infosystems, Inc. ",small,2010,5000,,100,149,124.5,Warrenville, IL ,USA,North America
+MavenMagnet ,small,2009,5000,,100,149,124.5,New York, NY ,USA,North America
+Providence Software Solutions ,small,2005,0,,0,,0, ,,,
+Imperium Solutions ,small,2003,0,,0,,0,Singapore,, Singapore ,Asia
+Akscellence Info Solutions ,small,2015,5000,,50,99,74.5,Madison, WI ,USA,North America
+Level60 Consulting ,small,2006,0,,0,,0,Nashville,TN ,USA,North America
+Plow Networks ,small,2012,0,,0,,0,Brentwood, TN ,USA,North America
+"PCS Managed Services, LLC ",small,1987,0,,0,,0,Memphis, TN ,USA,North America
+IT That Works ,small,1992,0,,0,,0,Franklin, TN ,USA,North America
+"Counterpoint Software, Inc ",small,1986,0,,0,,0,Wilmington, DE ,USA,North America
+StoryArc ,small,2017,1000,,100,149,124.5,Los Angeles, CA ,USA,North America
+Noble Consulting Services Inc ,small,1997,0,,0,,0,Indianapolis, IN ,USA,North America
+Streamba Ltd ,small,2010,0,,0,,0,Glasgow,, United Kingdom ,Europe
+Resolve studio ,small,2016,5000,,25,49,37,Bogota,, Colombia ,Latin America
+Córdoba Software ,small,1991,0,,0,,0,Cordoba,, Argentina ,Latin America
+Keystone.Solutions ,small,2006,0,,0,,0,Cleveland,OH,USA,North America
+VortexT Analytics ,small,2016,0,,0,,0,Knoxville, TN ,USA,North America
+Concert Tech Corporation ,small,2002,25000,,150,199,174.5,Leesburg, VA ,USA,North America
+Xerva ,small,2014,1000,,100,149,124.5,Provo,UT ,USA,North America
+Sara Software Systems ,small,2004,0,,0,,0,Olathe, KS ,USA,North America
+ReputationUP® ,small,2012,250000,,300+,,#VALUE!,Castellon de la Plana,, Spain ,Europe
+Blu Ltd ,small,2016,1000,,100,149,124.5, Hong Kong S.A.R.,, China ,Asia
+Valens DataLabs ,small,2016,0,,25,49,37,Ahmedabad,, India ,Asia
+Innovation Vista ,small,2015,10000,,0,,0,Houston, TX ,USA,North America
+"Coventek, Inc. ",small,2015,0,,0,,0,Atlanta, GA ,USA,North America
+Rigorous Statistics ,small,2017,1000,,100,149,124.5,Pretoria,, South Africa ,Africa
+Salesfive ,small,2016,5000,,100,149,124.5,Munich,, Germany ,Europe
+AISOMA AG ,small,2017,5000,,100,149,124.5,Frankfurt am Main,, Germany ,Europe
+Traydstream ,small,2015,0,,0,,0,London,, United Kingdom ,Europe
+AgotoZ technologies ,small,2016,5000,,50,99,74.5,Beijing,, China ,Asia
+10.digital ,small,2016,0,,0,,0,Coimbra,, Portugal ,Europe
+BlackSentry ,small,2016,0,,0,,0,Wuse Abuja,, Nigeria ,Africa
+Acumen Technology ,small,2016,0,,0,,0,Nashville, TN ,USA,North America
+Presidio Service Solutions Incorporated ,small,2007,0,,0,,0,Oak Ridge, TN ,USA,North America
+Up Tech Services ,small,2009,0,,0,,0,Tullahoma, TN ,USA,North America
+Revere Agency ,small,2017,10000,,150,199,174.5,Marlow,, United Kingdom ,Europe
+Zen Cloud Technologies ,small,2015,10000,,25,49,37,San Francisco, CA ,USA,North America
+Kranti Tech Services Pvt Ltd ,small,2010,0,,25,,12.5,Noida,, India ,Asia
+Script All DNA Technologies ,small,2015,5000,,25,49,37,Ahmedabad,, India ,Asia
+Stunn ,small,2012,0,,0,,0,,, United Kingdom ,Europe
+BTL Brands Ltd ,small,2011,10000,,150,199,174.5,London,, United Kingdom ,Europe
+Load Interactive ,small,2012,0,,0,,0,Aveiro,, Portugal ,Europe
+Head Blocks ,small,2011,0,,0,,0,Dhaka,, Bangladesh ,Asia
+IT Concept ,small,2011,1000,,50,99,74.5,Guro-gu,, South Korea ,Asia
+eigen ,small,2016,5000,,50,99,74.5,Zhejiang,, China ,Asia
+Intelivix ,small,2015,10000,,150,199,174.5,Recife,, Brazil ,Latin America
+BlueCore Technologies ,small,2010,0,,0,,0,Franklin, TN ,USA,North America
+Five Iron Technologies ,small,2008,0,,0,,0,Franklin, TN ,USA,North America
+E-Saurio ,small,2012,1000,,25,49,37,NORTH MIAMI,,USA,North America
+Communications Evolutions ,small,1974,0,,0,,0,McMinnville, TN ,USA,North America
+NEX Software ,small,2002,1000,,25,,12.5,Rajkot,, India ,Asia
+ShookIOT ,small,2017,0,,0,,0,Edmonton,, Canada ,North America
+Rapid Web Services ,small,2011,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Arwizon ,small,2016,5000,,50,99,74.5,Bengaluru,, India ,Asia
+Worldacquire ,small,2018,0,,0,,0,London,, United Kingdom ,Europe
+Wixel ,small,2010,0,,0,,0,Cape Town,, South Africa ,Africa
+Ebony+Ivory ,small,1969,0,,0,,0,Johannesburg,, South Africa ,Africa
+"Tictac Data Recovery, Cyber Security & Computer Forensics ",small,1999,1000,,50,99,74.5,Elliniko,, Greece ,Europe
+Innotica Group ,small,2003,5000,,25,49,37,Budapest,, Hungary ,Europe
+IT Strategists ,small,1999,10000,,25,49,37,Los Angeles, CA ,USA,North America
+Seno ,small,2004,0,,0,,0,Paraoso,, Brazil ,Latin America
+Zagalabs ,small,2013,0,,0,,0,Bogota,, Colombia ,Latin America
+Matrix Business Technology ,small,2004,10000,,100,149,124.5,Amman,, Jordan ,Asia
+Convverge Inc. ,small,2005,10000,,100,149,124.5,Calgary,, Canada ,North America
+Mia-Platform ,small,2016,10000,,50,99,74.5,Milano,, Italy ,Europe
+Cognexa ,small,2016,10000,,50,99,74.5,Bratislava,, Slovakia ,Europe
+Virtue Tech Inc ,small,2010,100000,,100,149,124.5,Bellevue, WA ,USA,North America
+Brainhint ,small,2017,10000,,50,99,74.5,Chorzow,, Poland ,Europe
+Tautology Development ,small,2013,0,,50,99,74.5,Boulder, CO ,USA,North America
+AngelCom IT Services ,small,1986,0,,0,,0,Lakewood, WA ,USA,North America
+Scalent Infotech Pvt. Ltd. ,small,2016,0,,0,,0,Pune,, India ,Asia
+Endion IT ,small,2017,5000,,25,49,37,Rosario,,Argentina ,Latin America
+"PCS, Inc. ",small,1996,0,,0,,0,Louisville, TN ,USA,North America
+Yuthivara Analytics ,small,2017,0,,25,,12.5,Hyderabad,, India ,Asia
+GAYAIT ,small,2014,0,,25,49,37,Quito,, Ecuador ,Latin America
+Imroz ,small,2016,5000,,0,,0,Lahore,, Pakistan ,Asia
+Ziras Technologies Inc ,small,2015,0,,0,,0,Newark, DE ,USA,North America
+AllSmart TechnoSolutions Pvt Ltd ,small,2016,10000,,25,49,37,Hyderabad,, India ,Asia
+Visionstate Inc ,small,2005,0,,0,,0,Edmonton,, Canada ,North America
+TECKPATH ,small,2012,1000,,100,149,124.5,Calgary,, Canada ,North America
+Eleven Media ,small,2009,0,,0,,0,Casablanca,, Morocco ,Africa
+VastEdge ,small,2004,1000,,50,99,74.5,,CA,USA,North America
+SunRiver IT Partners ,small,2012,0,,0,,0,Franklin, TN ,USA,North America
+SiteWhere ,small,2014,0,,0,,0,Atlanta, GA ,USA,North America
+"Mitech Partners, LLC ",small,2013,0,,0,,0,Nashville, TN ,USA,North America
+"One Call Telecom, LLC ",small,1972,0,,0,,0,Memphis, TN ,USA,North America
+Infosoft Inc ,small,2005,0,,0,,0,Shawnee Mission, KS ,USA,North America
+Computer Consulting Services ,small,1999,0,,0,,0,Jackson, TN ,USA,North America
+"rocketwise, inc. ",small,2003,0,,0,,0,Knoxville, TN ,USA,North America
+"Sublime Computer Services, LLC ",small,2008,0,,0,,0,Nashville, TN ,USA,North America
+"Cole Informatics, LLC ",small,2002,0,,0,,0,Parsons, TN ,USA,North America
+CTC Networks ,small,1978,0,,0,,0,Nashville,TN,USA,North America
+Inception Network Strategies ,small,2001,0,,0,,0,Franklin, TN ,USA,North America
+Kamatera ,small,1995,0,,25,,12.5,New York, NY ,USA,North America
+EarGlue ,small,1994,0,,0,,0,Memphis, TN ,USA,North America
+Trendz Web Solution ,small,2012,10000,,150,199,174.5,Salem,, India ,Asia
+Troyee Software ,small,2003,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Jindal Intellicom Limited ,small,2000,1000,,25,49,37,New Delhi, ,India,Asia
+Metamorphosis ,small,2017,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Hashtag Consulting ,small,2016,0,,0,,0,Dubai,, United Arab Emirates ,Asia
+Conlan Scientific ,small,2015,5000,,150,199,174.5,Bethesda, MD ,USA,North America
+"DataMart, Inc. ",small,1983,0,,0,,0,Memphis, TN ,USA,North America
+Clear Link Systems ,small,2004,0,,0,,0,Nashville, TN ,USA,North America
+Net3IT ,small,2012,0,,0,,0,Knoxville, TN ,USA,North America
+"Metis Technology, LLC ",small,2012,0,,0,,0,Madison, TN ,USA,North America
+W Y Technologies Inc ,small,1999,5000,,100,149,124.5,Vista, CA ,USA,North America
+Cloud 53 ,small,2015,0,,0,,0,Manchester,, United Kingdom ,Europe
+Nth-Degree Analytics ,small,2002,0,,0,,0,Bozeman, MT ,USA,North America
+Kieri Solutions LLC ,small,2015,0,,0,,0,Woodbine, MD ,USA,North America
+Bow River Solutions Inc. ,small,2005,1000,,50,99,74.5,Calgary,, Canada ,North America
+Saffron Key ,small,2016,1000,,50,99,74.5,Seattle, WA ,USA,North America
+Musato Technologies ,small,2015,0,,0,,0,KwaZulu-Natal,, South Africa ,Africa
+Intermedia Global Ltd. ,small,2003,10000,,150,199,174.5,Bedford,, United Kingdom ,Europe
+Total Telco Group ,small,2014,0,,0,,0,St Roseville,, Australia ,Australia
+River Cities Software ,small,1983,0,,0,,0,Cheyenne, WY ,USA,North America
+Code Fibers ,small,2015,1000,,25,49,37,Warsaw,, Poland ,Europe
+CrowdShakti ,small,2017,0,,0,,0,Bengaluru,, India ,Asia
+IT Wonders Web Pte. Ltd. ,small,2014,0,,0,,0,Singapore,, Singapore ,Asia
+Fidku Technology Inc. ,small,2014,0,,0,,0,Panama City,, Panama ,Latin America
+Tzu and Co. ,small,2013,25000,,0,,0,Sydney,, Australia ,Australia
+ATA Technologies ,small,2004,0,,0,,0,Jackson, TN ,USA,North America
+Pynical Inc. ,small,2012,0,,0,,0,Nashville, TN ,USA,North America
+AdTonos ,small,2018,0,,0,,0,London,, United Kingdom ,Europe
+"Eagle Communications, Inc ",small,2010,0,,0,,0,Murfreesboro, TN ,USA,North America
+The Ionado Group ,small,2014,0,,0,,0, ,,,
+Tailored Networks ,small,2015,0,,0,,0,Jackson, TN ,USA,North America
+"i4C Solutions, LLC ",small,2012,0,,0,,0,Knoxville, TN ,USA,North America
+"Simplify Technology, LLC ",small,2016,0,,0,,0,Columbia, TN ,USA,North America
+P3 Technology ,small,2000,0,,0,,0,Wartrace, TN ,USA,North America
+Dependable IT Support ,small,1992,0,,0,,0,Tacoma, WA ,USA,North America
+Reliable Technology Services Inc. ,small,2007,0,,0,,0,Timonium, MD ,USA,North America
+BasilByte ,small,2016,1000,,25,49,37,New Delhi,, India ,Asia
+Core Business ,small,2015,0,,0,,0,Montreal,, Canada ,North America
+Island 20 Ventures Inc ,small,2010,0,,0,,0,Toronto,, Canada ,North America
+Uninext Solutions Pvt Ltd ,small,2015,1000,,25,49,37,Delhi,, India ,Asia
+VINTEC Technology Solutions ,small,2012,5000,,100,149,124.5,Hanoi,, Vietnam ,Asia
+Digital Software Labs ,small,2017,5000,,25,49,37,Hyderabad,, India ,Asia
+Datrock ,small,2018,1000,,25,49,37,London,, United Kingdom ,Europe
+Digital Suite ,small,2017,50000,,50,99,74.5,Toronto,, Canada ,North America
+I.T. how to ,small,2005,0,,0,,0,Melbourne,, Australia ,Australia
+Aplus IT Solutions Ltd ,small,2009,0,,0,,0,Edmonton,, Canada ,North America
+Social POP ,small,2014,0,,0,,0,Panama City,, Panama ,Latin America
+Peritus Knowledge Services Corporation ,small,2016,1000,,0,,0,Makati City,, Philippines ,Asia
+DNK Software ,small,2016,0,,0,,0,Hanoi,, Vietnam ,Asia
+AKITO ,small,2016,10000,,150,199,174.5,Perugia,, Italy ,Europe
+Picksmart ,small,2012,0,,0,,0,Pretoria,, South Africa ,Africa
+The It Link ,small,2010,0,,0,,0,Boyds, MD ,USA,North America
+High Wheel Software ,small,2017,10000,,25,49,37,Gdynia,, Poland ,Europe
+BDS - Business Data Services ,small,2004,0,,0,,0,Overland Park, KS ,USA,North America
+Base2Industries ,Freelancer,2015,0,,0,,0,Edmonton,, Canada ,North America
+Binarydrive ,Freelancer,2003,10000,,150,199,174.5,London,, United Kingdom ,Europe
+MIMIR Blockchain Solutions ,small,2016,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+CapitalPlus Software ,small,2017,1000,,25,,12.5,Gandhinagar,, India ,Asia
+Xyples ,small,2005,10000,,100,149,124.5,Round Rock, TX ,USA,North America
+Benipal Technologies ,small,2009,5000,,150,199,174.5,New York, NY ,USA,North America
+Cloudelligent ,small,2011,1000,,50,99,74.5,Dallas, TX ,USA,North America
+searchtime ,small,2017,1000,,25,,12.5,,,India,Asia
+i2ent ,small,2019,5000,,50,99,74.5,Kaduwela,, Sri Lanka ,Asia
+AppSYGNA ,small,2012,0,,0,,0,Newark, DE ,USA,North America
+Nascenia ,medium,2010,0,,0,,0,DHAKA,, Bangladesh ,Asia
+Crossvale ,medium,2001,10000,,50,99,74.5,Dallas, TX ,USA,North America
+Ortom ,Freelancer,2019,5000,,100,149,124.5,Manchester,, United Kingdom ,Europe
+Sanctus IT ,small,2017,1000,,25,,12.5,Hyderabad,, India ,Asia
+Happy Jack Software ,small,2004,0,,0,,0,Laramie, WY ,USA,North America
+CognitionX ,medium,2015,0,,0,,0,London,, United Kingdom ,Europe
+"Oalva, Inc. ",small,2014,0,,0,,0,Overland Park, KS ,USA,North America
+"Intello Group, Inc. ",medium,2007,0,,0,,0,Wilmington, DE ,USA,North America
+Faststream Technologies ,medium,2008,1000,,25,,12.5,Inglewood, CA ,USA,North America
+Alpha Data ,medium,1981,0,,0,,0,Abu Dhabi,, United Arab Emirates ,Asia
+Akvelon ,medium,2007,5000,,25,49,37,Bellevue, WA ,USA,North America
+Plain Concepts ,medium,2006,25000,,100,149,124.5,Redmond, NC ,USA,North America
+Dundas Data ,medium,1992,25000,,25,49,37,Toronto,, Canada ,North America
+Iterio Data ,small,2014,25000,,25,49,37,,,Poland,Europe
+Winvest Technology Consultancy Services Pvt Ltd ,medium,2016,25000,,50,99,74.5,Hyderabad,, India ,Asia
+BrainScale Inc ,medium,2007,0,,0,,0,Princeton, NJ ,USA,North America
+Apptad ,medium,2013,50000,,150,199,174.5,Reston, VA ,USA,North America
+AGIT ,medium,1983,0,,0,,0,Jakarta,, Indonesia ,Asia
+Spindox ,medium,2007,5000,,100,149,124.5,Milan,, Italy ,Europe
+Agilisium ,medium,2013,10000,,25,49,37,Los Angeles, CA ,USA,North America
+Astragraphia ,medium,1976,0,,0,,0,Jakarta,, Indonesia ,Asia
+Growth Acceleration Partners ,medium,2007,250000,,50,99,74.5,Austin, TX ,USA,North America
+HPT Vietnam Corporation ,medium,1995,5000,,100,149,124.5,Ho Chi Minh City,, Vietnam ,Asia
+ITMAGINATION ,medium,2008,50000,,50,99,74.5,Warsaw,, Poland ,Europe
+HuaRui.AI ,medium,2017,5000,,100,149,124.5,Beijing,, China ,Asia
+ISO Software Systems Inc. ,medium,1979,0,,0,,0,Montreal,, Canada ,North America
+ProSys Information Systems ,medium,1997,0,,0,,0,Norcross, GA ,USA,North America
+Planaxis | Groupaxis ,medium,1997,1000,,50,99,74.5,Montreal,, Canada ,North America
+South Gate Tech Ltd. ,small,2017,5000,,50,99,74.5,Sofia City,, Bulgaria ,Europe
+Softcom Systems Inc ,medium,1997,0,,0,,0,Princeton, NJ ,USA,North America
+Entelect ,medium,2001,0,,0,,0,Melrose Arch,,South Africa ,Africa
+Orasi Software ,medium,2002,0,,0,,0,Greensboro, NC ,USA,North America
+Vekia ,medium,2008,5000,,100,149,124.5,Lille,, France ,Europe
+"Globonix, Inc. ",small,2004,10000,,25,49,37,Chicago, IL ,USA,North America
+NewVantage Partners ,small,2001,10000,,100,149,124.5,Boston, MA ,USA,North America
+Entrada LLC ,small,2015,10000,,50,99,74.5,Santa Fe, NM ,USA,North America
+ApacheBooster ,small,2007,0,,0,,0,Kochi,,USA,North America
+Computation Ltd ,small,2001,0,,0,,0,Toronto,, Canada ,North America
+InfoObjects Inc. ,medium,2005,1000,,50,99,74.5,San Jose, CA ,USA,North America
+Applied Data Science ,small,2016,10000,,150,199,174.5,London,, United Kingdom ,Europe
+Symtrex Inc. ,small,1988,0,,0,,0,Toronto,, Canada ,North America
+Rang Technologies Inc ,small,2005,0,,0,,0,Piscataway, NJ ,USA,North America
+Topia Technology ,small,1999,0,,0,,0,Tacoma, WA ,USA,North America
+InAtlas ,small,2010,0,,0,,0,Barcelona,, Spain ,Europe
+Methys ,medium,2004,0,,0,,0,Paris,, France ,Europe
+Polymont IT Services ,medium,2009,5000,,100,149,124.5,Courbevoie,, France ,Europe
+Rexer Analytics ,small,2002,10000,,100,149,124.5,Winchester, MA ,USA,North America
+Kyligence Inc. ,medium,2016,5000,,100,149,124.5,Shanghai,, China ,Asia
+QingCloud ,medium,2012,5000,,25,49,37,Beijing,, China ,Asia
+270 Strategies ,medium,2013,10000,,100,149,124.5,Chicago, IL ,USA,North America
+Genpro Research ,medium,2016,1000,,25,,12.5,East Walpole, MA ,USA,North America
+Jordan Business Systems ,medium,2005,10000,,100,149,124.5,Amman,, Jordan ,Asia
+White Box Analytics Pty Limited ,small,2014,1000,,50,99,74.5,Sydney,, Australia ,Australia
+Diatom ,small,2010,0,,0,,0,Boston, MA  ,USA,North America
+Georgia Blockchain Coalition ,small,2018,0,,0,,0,Atlanta, GA ,USA,North America
+Endeavour Solutions Inc ,small,1989,1000,,50,99,74.5,Mississauga,, Canada ,North America
+IIH Nordic ,medium,2005,10000,,150,199,174.5,Copenhagen,, Denmark ,Europe
+Team Networks ,small,1975,0,,0,,0,Casper, WY ,USA,North America
+Salt City Tech ,small,2017,0,,0,,0, UT ,,USA,North America
+Red Pill Analytics ,small,2014,1000,,50,99,74.5,Wilmington, NC ,USA,North America
+Relatech Srl ,medium,2001,5000,,100,149,124.5,Cinisello Balsamo,, Italy ,Europe
+BOLDMIND ,small,2012,0,,0,,0,London,, United Kingdom ,Europe
+Heritage Computer Consulting & Services Inc ,small,1991,0,,0,,0,Overland Park, KS ,USA,North America
+OPULENTSOFT LLC ,small,2010,0,,0,,0,Hamilton, NJ ,USA,North America
+"Jobcase, Inc. ",medium,2009,0,,0,,0,Cambridge, MA ,USA,North America
+Corvus Computers ,small,2015,0,,0,,0,South Lake City, UT ,USA,North America
+BluuData Labs ,small,2009,25000,,50,99,74.5,Surrey,, Canada ,North America
+Build Then Market ,small,2016,0,,0,,0,New Brunswick, NJ ,USA,North America
+Pythian ,medium,1997,25000,,300+,,#VALUE!,Ottawa,, Canada ,North America
+InsideSales.com ,medium,2004,0,,0,,0,Provo, UT ,USA,North America
+XSKY Data Technology ,small,2015,5000,,50,99,74.5,Beijing,, China ,Asia
+Interpersonal Frequency ,small,2009,25000,,150,199,174.5,Tysons, VA ,USA,North America
+Elucidate ,small,2018,10000,,100,149,124.5,Johannesburg,, South Africa ,Africa
+Constant Leads ,small,2017,1000,,0,,0,Dubai,, United Arab Emirates ,Asia
+MediaBase Direct Limited ,small,1996,10000,,150,199,174.5,London,, United Kingdom ,Europe
+Aviana Global ,small,1994,10000,,100,149,124.5,Brea, CA ,USA,North America
+Edgematics Technologies ,small,2010,50000,,25,49,37,Dubai,, United Arab Emirates ,Asia
+Orès Data Science ,small,2016,0,,0,,0,Montreal,, Canada ,North America
+Paradigma Digital ,medium,2007,5000,,25,49,37,Madrid,, Spain ,Europe
+RBA Consulting ,medium,2006,5000,,25,49,37,Wayzata, MN ,USA,North America
+Stone Age ,small,2006,0,,0,,0,Rio de Janeiro,, Brazil ,Latin America
+"COMERIT, INC. ",small,2007,0,,0,,0,El Dorado Hills, CA ,USA,North America
+Integration Alpha GmbH ,small,2014,0,,0,,0,Cham,, Switzerland ,Europe
+Conduit Innovation ,small,2016,0,,0,,0,Boston, MA ,USA,North America
+Marionete ,small,2016,25000,,50,99,74.5,London,, United Kingdom ,Europe
+Praesto Consulting ,small,2009,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Mandic Cloud Solutions ,medium,1990,0,,0,,0,Sao Paulo,, Brazil ,Latin America
+Geosoft ,medium,1986,0,,0,,0,Rio de Janeiro,, Brazil ,Latin America
+Catapult Systems ,medium,1993,5000,,100,149,124.5,Austin, TX ,USA,North America
+China Cache ,medium,1998,1000,,25,49,37,Beijing,, China ,Asia
+Paradigma ,medium,2007,5000,,25,49,37,Madrid,, Spain ,Europe
+Creative Anvil ,small,2015,10000,,0,,0,St. Louis, MO ,USA,North America
+DeepBrain ,small,2017,5000,,50,99,74.5,Shanghai,, China ,Asia
+Ruths.ai ,small,2013,0,,0,,0,Houston, TX ,USA,North America
+Elevate-Global ,small,2017,10000,,50,99,74.5,Skopje,, Macedonia ,Europe
+SFL Scientific ,small,2015,5000,,0,,0,Walpole, MA ,USA,North America
+Mobilewalla ,medium,2011,0,,0,,0,Atlanta, GA ,USA,North America
+iThink Panama ,small,2007,0,,0,,0,Panama,, Panama ,Latin America
+ScalHive LLC ,small,2016,10000,,50,99,74.5,Ternopil,, Ukraine ,Europe
+NCTech ,medium,2010,0,,0,,0,Edinburgh,, United Kingdom ,Europe
+Peak Indicators ,medium,2008,5000,,100,149,124.5,Chesterfield,, United Kingdom ,Europe
+Essextec ,medium,1994,0,,0,,0,Rochelle Park, NJ ,USA,North America
+UEC Group ,medium,2001,5000,,100,149,124.5,Beijing,, China ,Asia
+Bagley Consulting Group ,small,2004,0,,0,,0,Birmingham, AL ,USA,North America
+"TQIntelligence, Inc. ",small,2016,0,,0,,0,Atlanta, GA ,USA,North America
+8KMiles ,medium,2007,5000,,100,149,124.5,San Ramon, CA ,USA,North America
+Cuelogic Technologies ,medium,2007,25000,,25,49,37,New York, NY ,USA,North America
+Dakota Analytics ,small,2000,1000,,50,99,74.5,Calgary,, Canada ,North America
+Resolute Technologies ,small,1998,10000,,100,149,124.5,Schaumburg, IL ,USA,North America
+CXO Corporation ,small,2006,0,,0,,0,Burlington,, Canada ,North America
+eAlchemy ,small,2009,0,,100,149,124.5,Petaluma, CA ,USA,North America
+Cloud Technology Partners ,medium,2009,0,,0,,0,Boston, MA ,USA,North America
+TCG ,medium,1994,0,,0,,0,Washington, DC ,USA,North America
+DS Stream ,medium,2017,10000,,50,99,74.5,Warsaw,, Poland ,Europe
+Column Technologies ,medium,1998,5000,,100,149,124.5,Lombard, IL ,USA,North America
+Adastra Corporation ,medium,2000,25000,,100,149,124.5,Markham,, Canada ,North America
+BIAS Corporation ,medium,2000,5000,,100,149,124.5,Roswell, GA ,USA,North America
+Unico ,medium,1984,0,,0,,0,Melbourne,, Australia ,Australia
+Kavayah Solutions Inc ,small,2006,0,,0,,0,Princeton, NJ ,USA,North America
+BitRefine Group ,small,2013,25000,,150,199,174.5,Hong Kong,," Hong Kong S.A.R., China ",Asia
+VideoPlusPlus ,medium,2012,1000,,25,49,37,Shanghai,, China ,Asia
+Intone Networks ,medium,2003,0,,0,,0,Iselin, NJ ,USA,North America
+UFINET ,medium,1998,0,,0,,0,Madrid,, Spain ,Europe
+Comrise ,medium,1984,0,,0,,0,Woodbridge, NJ ,USA,North America
+UDig ,medium,2001,0,,0,,0,Richmond, VA ,USA,North America
+Charter Global ,medium,1994,0,,0,,0,Atlanta, GA ,USA,North America
+Techlogix ,medium,1996,0,,0,,0,Woburn, MA ,USA,North America
+Inspired Thinking Group ,medium,2009,10000,,150,199,174.5,Birmingham,, United Kingdom ,Europe
+FACTWEAVERS ,small,2014,1000,,25,,12.5,Cochin,, India ,Asia
+Arria NLG plc ,medium,2013,0,,0,,0,Londres,, United Kingdom ,Europe
+Ironside ,medium,1999,10000,,100,149,124.5,Lexington, MA ,USA,North America
+iVision ,medium,2004,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+PCMS Datafit ,medium,1994,5000,,100,149,124.5,Coventry,, United Kingdom ,Europe
+Polestar Solutions & Services ,medium,2012,5000,,25,49,37,Noida,, India ,Asia
+BCS Technology International Pty Ltd ,medium,2001,10000,,150,199,174.5,Sydney,, Australia ,Australia
+ATCS ,medium,2000,5000,,100,149,124.5,Montvale, NJ ,USA,North America
+OPTIMIZA ,medium,1983,10000,,100,149,124.5,Amman,, Jordan ,Asia
+Ripjar ,medium,2012,0,,0,,0,Gloucestershire,, United Kingdom ,Europe
+Tangerine Software Inc ,medium,1992,0,,0,,0,Saint-Laurent,, Canada ,North America
+Evanhoe & Associates ,medium,1996,0,,0,,0,Dayton, OH ,USA,North America
+Zeke ,medium,2006,5000,,25,49,37,Santiago,, Chile ,Latin America
+"Beijing SYSWARE Technology Co., LTD ",medium,2006,5000,,100,149,124.5,Beijing,, China ,Asia
+Saicon Consultants Inc ,medium,1998,0,,0,,0,Overland Park, KS ,USA,North America
+Boost Labs ,small,2009,10000,,100,149,124.5,Gaithersburg, MD ,USA,North America
+IBCS-Primax Software Bangladesh Ltd. ,medium,1989,0,,0,,0,Dhaka,, Bangladesh ,Asia
+Primitive Logic ,medium,1984,10000,,100,149,124.5,San Francisco, CA ,USA,North America
+STA Group ,medium,2002,10000,,100,149,124.5,Chicago, IL ,USA,North America
+EflyCloud ,medium,2007,0,,25,,12.5,Foshan,, China ,Asia
+The Berkeley Partnership ,medium,1990,1000,,50,99,74.5,London,, United Kingdom ,Europe
+"Ross Technologies, (RTGX) ",medium,1997,25000,,150,199,174.5,Baltimore, MD ,USA,North America
+ProSync Technology Group ,medium,2000,25000,,150,199,174.5,Ellicott City, MD ,USA,North America
+Altron Karabina ,medium,2001,10000,,50,99,74.5,Fourways,, South Africa ,Africa
+SQUADEX ,medium,2016,0,,0,,0,Palo Alto, CA ,USA,North America
+MidLink Computing ,small,2000,10000,,150,199,174.5,Ramat Gan,, Israel ,Asia
+Hegemony Consulting Group ,small,1995,0,,0,,0,Downers Grove, IL ,USA,North America
+DigiTime ,medium,2010,1000,,25,49,37,Shenzhen,, China ,Asia
+"Vibrant, Inc. ",small,2000,0,,0,,0,Princeton, NJ ,USA,North America
+Xentaurs ,small,2016,1000,,50,99,74.5,Santa Ana, CA ,USA,North America
+Punto Visual ,medium,1979,5000,,100,149,124.5,Lima,, Peru ,Latin America
+Amigo Corporation ,medium,2005,10000,,100,149,124.5,Hanoi,, Vietnam ,Asia
+core3 ,medium,2009,10000,,25,49,37,Warsaw,, Poland ,Europe
+Centurical ,medium,2006,5000,,150,199,174.5,Brussels,, Belgium ,Europe
+Pachira Information Technology ,medium,2009,5000,,50,99,74.5,Beijing,, China ,Asia
+Praxis Computing ,medium,1993,0,,0,,0,Johannesburg,,South Africa ,Africa
+COREBI SA ,medium,2006,10000,,100,149,124.5,Buenos Aires,, Argentina ,Latin America
+OpSmart Tech ,medium,2009,1000,,25,49,37,Beijing,, China ,Asia
+Verticurl ,medium,2006,5000,,100,149,124.5,Tokyo,,Japan ,Asia
+Frontera Consulting ,medium,2008,1000,,50,99,74.5,New York, NY ,USA,North America
+Modulant ,medium,1989,0,,0,,0,North Charleston, SC ,USA,North America
+AEQUICENS ,small,2018,25000,,200,300,250,Geneva,, Switzerland ,Europe
+NEXGEN IT Solutions ,small,1976,0,,0,,0,Metuchen, NJ ,USA,North America
+NDOT Technologies ,medium,2008,0,,0,,0,Sunnyvale, CA ,USA,North America
+"Klein Consulting, LLC ",small,2016,1000,,50,99,74.5,Chicago, IL ,USA,North America
+Radius Intelligence ,small,2008,0,,150,199,174.5,San Francisco, CA ,USA,North America
+IRIS Technology ,small,2009,0,,0,,0,Amman,, Jordan ,Asia
+Qiniu Cloud ,medium,2011,1000,,25,49,37,Shanghai,, China ,Asia
+SpeedyCloud ,medium,2012,1000,,25,49,37,Beijing,, China ,Asia
+PetabytZ Technologies Inc ,medium,2016,10000,,100,149,124.5,Edison, NJ ,USA,North America
+ProfitWell ,medium,2012,0,,0,,0,Boston, MA ,USA,North America
+Zyber ,small,2009,5000,,25,49,37,Auckland,, New Zealand ,Australia
+"Clarity Campaign Labs, LLC ",small,2012,0,,0,,0,Washington, DC ,USA,North America
+Tongdun ,medium,2013,5000,,100,149,124.5,Hangzhou,, China ,Asia
+Tandem Support Services ,medium,2018,0,,0,,0,Cheyenne, WY ,USA,North America
+COMPAREX ,medium,2003,5000,,100,149,124.5,Brussels,, Belgium ,Europe
+Cogito Corp ,medium,2007,0,,0,,0,Boston, MA ,USA,North America
+Territorio Creativo ,medium,1997,5000,,25,49,37,Madrid,, Spain ,Europe
+MosaicTech ,small,2015,1000,,50,99,74.5,Cape Town,, South Africa ,Africa
+Ebiz-fooge ,medium,2008,10000,,25,49,37,Tianjin,, China ,Asia
+DAEM SA ,small,1983,10000,,100,149,124.5,athens,, Greece ,Europe
+Croesus ,medium,1987,0,,0,,0,Laval,, Canada ,North America
+Axoni ,medium,2015,0,,0,,0,New York, NY ,USA,North America
+Good Rebels ,medium,1997,10000,,150,199,174.5,Madrid,, Spain ,Europe
+Attest ,medium,2015,0,,0,,0,London,, United Kingdom ,Europe
+CleanTelligent Software ,medium,2003,0,,0,,0,Provo,UT ,USA,North America
+Advaiya Solutions ,medium,2005,10000,,25,49,37,Bellevue, WA ,USA,North America
+ActiveWizards ,small,2004,1000,,25,49,37,,,Ukraine,Europe
+APEX Technologies ,medium,2011,1000,,50,99,74.5,Shanghai,, China ,Asia
+Corporate Technologies ,medium,1994,0,,0,,0,Burlington, MA ,USA,North America
+ClearEdge IT Solutions ,medium,2002,25000,,150,199,174.5,Jessup, MD ,USA,North America
+PalmSoft Tecnologia ,small,2002,0,,0,,0,Florianpolis,, Brazil ,Latin America
+Ad Fingers ,small,2008,5000,,100,149,124.5,Vilnius,, Lithuania ,Europe
+Elegant MicroWeb ,medium,1996,5000,,25,,12.5,Ahmedabad,, India ,Asia
+DevPace ,small,2017,5000,,50,99,74.5,Kharkiv,, Ukraine ,Europe
+The Baer Group ,medium,1997,0,,0,,0,Atlanta, GA ,USA,North America
+LARION ,medium,2003,5000,,100,149,124.5,Ho Chi Minh City,, Vietnam ,Asia
+Simantel ,medium,1980,0,,0,,0,Peoria, IL ,USA,North America
+DataSine ,small,2015,0,,0,,0,London,, United Kingdom ,Europe
+Tekoa ,small,2013,0,,0,,0,Florianpolis,, Brazil ,Latin America
+Deevita ,small,2014,0,,0,,0,Redmond, WA ,USA,North America
+ethosIQ ,small,2009,0,,0,,0,Houston, TX ,USA,North America
+ARS DATA ,small,2016,5000,,50,99,74.5,Kyiv,, Ukraine ,Europe
+ICONSULTING ,medium,2001,5000,,100,149,124.5,Casalecchio di Reno,, Italy ,Europe
+Mariner ,medium,2003,0,,0,,0,Saint John,, Canada ,North America
+Access One ,medium,1993,0,,0,,0,Chicago, IL ,USA,North America
+Innovative Software Engineering ,medium,2002,0,,0,,0,Coralville, IA ,USA,North America
+Alphalogic Techsys Limited ,medium,2008,25000,,25,49,37,Arlington, VA ,USA,North America
+DataCrops Software Pvt. Ltd. ,medium,2017,10000,,25,49,37,Ahmedabad,, India ,Asia
+Health iQ ,small,2010,10000,,150,199,174.5,London,, United Kingdom ,Europe
+Alvarez Technology Group ,small,2001,5000,,100,149,124.5,Salinas, CA ,USA,North America
+neusta consulting ,small,2008,0,,0,,0,Munich,, Germany ,Europe
+Order Of Code ,small,2010,0,,25,49,37,Przemysl,, Poland ,Europe
+Tower Technologies ,small,2001,5000,,25,49,37,Lahore,, Pakistan ,Asia
+Bright Hat ,small,2010,10000,,100,149,124.5,Minneapolis, MN ,USA,North America
+ATS Vietnam ,medium,2001,10000,,100,149,124.5,Ho Chi Minh City,, Vietnam ,Asia
+Hazy ,small,2017,0,,0,,0,London,, United Kingdom ,Europe
+INFINITE UPTIME ,small,2015,5000,,25,49,37,Pune,, India ,Asia
+Lionshare Marketing ,small,1995,0,,0,,0,Overland Park, KS ,USA,North America
+Momentum3 ,small,2014,0,,0,,0,Tulsa, OK ,USA,North America
+BTT Cloud ,small,2007,0,,0,,0,Vilnius, ,Lithuania,Europe
+Nexus Innovations ,small,2001,0,,0,,0,Fargo, ND ,USA,North America
+Genesis Networks ,medium,2001,0,,0,,0,Singapore,, Singapore ,Asia
+Infodat ,medium,1996,10000,,100,149,124.5,Houston, TX ,USA,North America
+ConnectPoint ,medium,2010,0,,0,,0,Warsaw,, Poland ,Europe
+Zirous ,medium,1986,0,,0,,0,West Des Moines, IA ,USA,North America
+re:infer ,small,2015,0,,0,,0,London,, United Kingdom ,Europe
+Eigen Innovations Inc. ,small,2012,0,,0,,0,Fredericton,, Canada ,North America
+WCI Consulting ,small,1998,10000,,100,149,124.5,Plano, TX  ,USA,North America
+Ayata ,small,2009,0,,0,,0,Houston, TX ,USA,North America
+BISP Solutions Inc. ,small,2011,1000,,25,49,37,Bhopal,, India ,Asia
+Graviton Consulting Services ,small,2010,0,,0,,0,Sacramento, CA ,USA,North America
+Method Analytics Ltd ,small,2016,10000,,150,199,174.5,Leeds,, United Kingdom ,Europe
+Valdon Group GmbH ,small,2015,10000,,100,149,124.5,Zurich,, Switzerland ,Europe
+Live800 ,medium,2003,1000,,25,,12.5,Chengdu,, China ,Asia
+"ProTech Systems Group, Inc. ",medium,1992,0,,0,,0,Memphis, TN ,USA,North America
+octo ,medium,1999,0,,25,,12.5,Paris,, France ,Europe
+SMX Services & Consulting ,medium,1997,5000,,25,49,37,Miami,,USA,North America
+Sageable Technologies ,medium,2003,0,,0,,0,Albany, NY ,USA,North America
+Solmit ,small,2015,10000,,100,149,124.5,Lima,, Peru ,Latin America
+GO-SHARP ,small,2011,5000,,0,,0,Mexico City,, Mexico ,North America
+Morris & Opazo ,small,2005,0,,0,,0,Las Condes Santiago,, Chile ,Latin America
+Sigmoid Group ,small,2018,10000,,0,,0,Elmwood Park, NJ ,USA,North America
+South River Technologies ,small,2001,0,,0,,0,Annapolis, MD ,USA,North America
+Kanerika Inc ,medium,2015,50000,,50,99,74.5,Hyderabad,, India ,Asia
+Ecotech ,medium,2000,10000,,25,49,37,Pune,, India ,Asia
+M.IT Services Srl ,small,2008,5000,,100,149,124.5,Milan,, Italy ,Europe
+Otra Tech ,small,2010,0,,0,,0,Laramie, WY ,USA,North America
+"Stellar Programming & Consulting, Inc ",small,1985,0,,0,,0,Casper, WY ,USA,North America
+2KLIC - Open IoT Solution ,small,2012,0,,0,,0,Laval,, Canada ,North America
+Intellinet Atlanta ,medium,1993,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+Springbot ,medium,2012,0,,0,,0,Atlanta, GA ,USA,North America
+EZshield ,medium,2001,0,,0,,0,Nottingham, MD ,USA,North America
+Gurucul ,medium,2010,10000,,150,199,174.5,El Segundo, CA ,USA,North America
+EastBanc Technologies ,medium,1999,0,,0,,0,Washington, DC ,USA,North America
+Entrance: Software Consulting ,small,1993,5000,,150,199,174.5,Houston, TX ,USA,North America
+eLuminous Technologies Pvt Ltd ,medium,2002,5000,,25,,12.5,Nashik,, India ,Asia
+Mnubo ,medium,2012,10000,,50,99,74.5,Mont-Royal QC,, Canada ,North America
+HyTechPro ,medium,2004,0,,25,49,37,Washington, DC ,USA,North America
+"Delaware Managed Services and IT Consulting, Inc ",small,2010,0,,0,,0,Taguig City,, Philippines ,Asia
+ICSC Corporation ,small,2006,5000,,100,149,124.5,Ho Chi Minh City,, Vietnam ,Asia
+RTS Labs ,small,2012,5000,,25,49,37,Glen Allen, VA ,USA,North America
+Joshua Wilson Consulting ,Freelancer,2014,1000,,100,149,124.5,Indianapolis, IN ,USA,North America
+Stonehill ,small,2015,25000,,200,300,250,Tampa,,USA,North America
+Zapalean ,small,2016,1000,,50,99,74.5,Berlin, ,Germany,Europe
+The Chertoff Group ,medium,2009,25000,,200,300,250,Washington, DC ,USA,North America
+Shadow-Soft ,small,2008,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+Object Sharp ,small,2001,10000,,100,149,124.5,Toronto,,Canada ,North America
+Illumiti ,medium,2000,5000,,100,149,124.5,Thornhill,, Canada ,North America
+V2Soft Private Limited ,medium,1998,0,,0,,0,McLean, VA ,USA,North America
+StrategyWise ,small,2013,0,,0,,0,Birmingham, AL ,USA,North America
+B2B Technologies ,small,1998,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+Briskon Technologies ,small,2005,5000,,25,,12.5,Bangalore,, India ,Asia
+Pyxle International ,medium,2003,25000,,25,49,37,Colombo ,, Sri Lanka ,Asia
+Fintricity ,small,2001,1000,,100,149,124.5,London,, United Kingdom ,Europe
+Qymatix Solutions GmbH ,small,2013,25000,,150,199,174.5,Karlsruhe,, Germany ,Europe
+Neos IT Services ,small,2005,0,,0,,0,Munich,, Germany ,Europe
+10th Magnitude ,medium,2010,5000,,100,149,124.5,Chicago, IL ,USA,North America
+"DMC, Inc. ",medium,1996,25000,,100,149,124.5,Chicago, IL ,USA,North America
+TurnKey Lender ,medium,2014,1000,,0,,0,Singapore,, Singapore ,Asia
+PPTS Solutions ,medium,2001,0,,25,49,37,Coimbatore,, India ,Asia
+Plasma Computing Group ,medium,2002,10000,,150,199,174.5,Dallas, TX ,USA,North America
+Arcus Global ,medium,2009,5000,,100,149,124.5,Cambridge,, United Kingdom ,Europe
+Dapasoft ,medium,1997,25000,,25,49,37,Toronto,, Canada ,North America
+Finatext ,small,2013,5000,,100,149,124.5,Tokyo,, Japan ,Asia
+CrowdEmotion ,small,2013,0,,0,,0,London,, United Kingdom ,Europe
+1-Net Singapore Pte Ltd ,medium,1997,0,,0,,0,Singapore,, Singapore ,Asia
+Rayvision ,medium,2004,1000,,25,49,37,Shenzhen,, China ,Asia
+Ben Lomand Connect ,medium,1954,0,,0,,0,McMinnville, TN ,USA,North America
+Advanced Network Solutions ,medium,1997,0,,0,,0,Nashville, TN ,USA,North America
+6Point6 ,medium,2012,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Atlantbh ,medium,2000,5000,,0,,0,Sarajevo,, Bosnia and Herzegovina ,Europe
+Sparkhound ,medium,1998,0,,0,,0,Baton Rouge, LA ,USA,North America
+GoPomelo ,small,2008,0,,0,,0,Bangkok,, Thailand ,Asia
+Xorlogics ,small,2001,10000,,100,149,124.5,Brussels,, Belgium ,Europe
+Mellon Consulting Group ,small,2008,5000,,100,149,124.5,Germantown, TN ,USA,North America
+BigR.io ,small,2013,10000,,100,149,124.5,Boston, MA ,USA,North America
+6Estates ,small,2014,0,,0,,0,Singapore,, Singapore ,Asia
+Delve ,small,2007,0,,0,,0,Boulder, CO ,USA,North America
+RNB Group Limited ,small,2005,10000,,150,199,174.5,Leeds,, United Kingdom ,Europe
+Urban Tide ,small,2014,0,,0,,0,Edinburgh,, United Kingdom ,Europe
+Cinchapi ,small,2016,0,,0,,0,Atlanta, GA ,USA,North America
+Cloopen ,medium,2009,1000,,25,49,37,Beijing,, China ,Asia
+"Stone Soup Tech Solutions, LLC ",medium,2003,10000,,100,149,124.5,Griffin, GA ,USA,North America
+AppLike ,medium,2017,5000,,100,149,124.5,Hamburg,, Germany ,Europe
+"ixStrata, Inc. ",medium,2011,75000,,100,149,124.5,Santa Monica, CA ,USA,North America
+UnifyCloud LLC ,medium,2009,5000,,150,199,174.5,Redmond, WA ,USA,North America
+MTBIT ,small,2018,250000,,25,,12.5,Tallinn,, Estonia ,Europe
+"Freedom Consulting Group, Inc. ",medium,2004,25000,,150,199,174.5,Columbia, MD ,USA,North America
+BenevolentAI ,medium,2013,0,,0,,0,London,, United Kingdom ,Europe
+Interworks ,medium,1996,10000,,100,149,124.5,Stillwater, OK ,USA,North America
+Activate ,small,2010,10000,,100,149,124.5,New York, NY ,USA,North America
+Laser Focus Data ,small,2018,1000,,25,49,37,London,, United Kingdom ,Europe
+Adagio Tech ,small,2009,0,,0,,0,Iturriaga,, Uruguay ,Latin America
+Adaptive Systems ,small,2003,5000,,100,149,124.5,Princeton, NJ ,USA,North America
+IDeepeners Private Limited ,small,2018,0,,25,49,37,Jaipur,, India ,Asia
+Mindspan Systems ,medium,2001,10000,,0,,0,Durham, NC ,USA,North America
+The Data Team ,small,2014,1000,,50,99,74.5, Singapore ,,Singapore,Asia
+Develin ,small,1988,1000,,50,99,74.5,Milton Keynes,, United Kingdom ,Europe
+Black Ink Technologies ,small,2012,0,,150,199,174.5,Boston,MA ,USA,North America
+C2G Partners ,medium,2002,10000,,100,149,124.5,Newark, NJ ,USA,North America
+BI Brainz ,small,2014,5000,,100,149,124.5,Atlanta, GA ,USA,North America
+IntegraONE ,medium,1990,0,,0,,0,Allentown, PA ,USA,North America
+Aridhia Informatics Ltd ,medium,2007,0,,0,,0,Edinburgh,, United Kingdom ,Europe
+JUSFOUN ,medium,2011,5000,,100,149,124.5,Beijing,, China ,Asia
+DYXnet ,large,1999,5000,,25,49,37,Kowloon,," Hong Kong S.A.R., China ",Asia
+SequoiaDB ,medium,2012,5000,,50,99,74.5,Beijing,, China ,Asia
+DataVisor ,medium,2013,5000,,50,99,74.5,Mountain View, CA ,USA,North America
+"RVM Enterprises, Inc. ",medium,1996,0,,0,,0,Jersey City, NJ ,USA,North America
+Devfacto ,medium,2007,10000,,100,149,124.5,Toronto,, Canada ,North America
+ZSL Inc ,medium,1995,0,,0,,0,Edison, NJ ,USA,North America
+Radiansys ,small,2007,5000,,50,99,74.5,Freemont, CA ,USA,North America
+Eisso ,medium,2006,5000,,100,149,124.5,Shanghai,, China ,Asia
+EverString ,medium,2012,5000,,100,149,124.5,San Mateao, CA ,USA,North America
+DSTA ,large,2000,0,,0,,0,Singapore,, Singapore ,Asia
+Yonghong Tech ,medium,2012,1000,,25,49,37,Beijing,, China ,Asia
+ISM Canada ,medium,2000,1000,,50,99,74.5,Regina,, Canada ,North America
+Analytics8 ,medium,2002,1000,,50,99,74.5,Chicago, IL ,USA,North America
+Bridges Consulting ,medium,2000,0,,0,,0,Hanover, MD ,USA,North America
+Tiger Analytics ,small,2010,0,,0,,0,Santa Clara, CA ,USA,North America
+Neal Analytics ,small,2011,1000,,50,99,74.5,Seattle, WA ,USA,North America
+Intellego ,large,1999,5000,,25,49,37,Mexico City,, Mexico ,North America
+Maine Pointe LLC ,medium,2004,100000,,300+,,#VALUE!,Boston, MA ,USA,North America
+Data Bear ,small,2016,1000,,50,99,74.5,London,, United Kingdom ,Europe
+Clarity Insights ,medium,2008,10000,,100,149,124.5,Chicago, IL  ,USA,North America
+DecisionPath Consulting ,small,1977,1000,,50,99,74.5,Gaithersburg, MD ,USA,North America
+Solution BI ,medium,2009,1000,,50,99,74.5,Paris,, France ,Europe
+SetuServ ,medium,2012,0,,0,,0,Morrisville, NC ,USA,North America
+WINNER ,medium,2004,5000,,25,49,37,Shanghai,, China ,Asia
+Wangsu ,large,2000,5000,,25,49,37,Santa Clara, CA ,USA,North America
+Neoway Business Solutions ,medium,2002,10000,,100,149,124.5,Florianpolis,, Brazil ,Latin America
+Datasource Consulting ,medium,2005,1000,,50,99,74.5,Denver, CO ,USA,North America
+Poslovna Inteligencija ,medium,2001,0,,0,,0,Zangreb,, Croatia ,Europe
+Cloudmoyo ,medium,2015,50000,,50,99,74.5,Bellevue, WA ,USA,North America
+Internetrix ,small,2000,10000,,150,199,174.5,Wollongong,, Australia ,Australia
+Contexti ,small,2012,1000,,50,99,74.5,Sydney,, Australia ,Australia
+zData Inc. ,small,2012,0,,0,,0,San Francisco, CA ,USA,North America
+Noah Data ,medium,2013,5000,,25,,12.5,Atlanta, GA ,USA,North America
+Centurysoft Private Limited ,medium,2013,1000,,50,99,74.5,Pune,, India ,Asia
+Fusion Consulting ,small,2006,1000,,50,99,74.5,Irving, TX ,USA,North America
+"Caresoft Inc. Tripod Technologies, LLC ",small,1994,0,,0,,0,Somerset, NJ ,USA,North America
+Inzata Analytics ,small,2016,0,,0,,0,Tampa,,USA,North America
+ASI Data Science ,medium,2014,0,,0,,0,London,, United Kingdom ,Europe
+HYDATA ,medium,2013,5000,,100,149,124.5,Beijing,, China ,Asia
+Lynchpin Analytics Limited ,small,2005,5000,,100,149,124.5,Edinburgh,, United Kingdom ,Europe
+Decentrix ,small,2001,5000,,100,149,124.5,Denver, CO ,USA,North America
+Ness Technologies | נס טכנולוגיות ,large,1999,10000,,100,149,124.5,Tel Aviv,, Israel ,Asia
+Applied Analysis ,small,1997,0,,0,,0,Las Vegas, NV ,USA,North America
+Atlas HANA LLC ,medium,2003,0,,0,,0,Princeton, NJ ,USA,North America
+Visionsoft Global ,medium,2005,0,,0,,0,Princeton, NJ ,USA,North America
+Maticmind S.p.A. ,medium,2008,10000,,150,199,174.5,Vimodrone,, Italy ,Europe
+"phData, Inc. ",medium,2014,5000,,100,149,124.5,Minneapolis, MN ,USA,North America
+Climber ,medium,2005,1000,,150,199,174.5,London,, United Kingdom ,Europe
+Data to Value ,small,2013,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Big Consultancy ,small,2015,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Akira Technologies ,small,2003,0,,25,,12.5,Washington, DC ,USA,North America
+"Informatic Technologies, Inc. ",medium,1996,0,,0,,0,North Brunswick, NJ ,USA,North America
+Scalable Systems ,small,2005,0,,0,,0,Piscataway, NJ ,USA,North America
+"Baanyan Software Services, Inc. ",medium,2009,0,,0,,0,Edison, NJ ,USA,North America
+Datanomics ,small,1982,0,,0,,0,Bridgewater, NJ ,USA,North America
+A2 Consulting ,medium,2010,5000,,25,49,37,Minsk,, Belarus ,Europe
+Comlinkdata ,medium,2010,0,,0,,0,Boston, MA ,USA,North America
+Couse5 Intelligence ,medium,2000,0,,0,,0,Redmond, WA ,USA,North America
+Transwarp ,medium,2013,5000,,50,99,74.5,Shanghai,, China ,Asia
+HanSight ,medium,2014,5000,,25,49,37,Beijing,, China ,Asia
+Counect ,medium,2010,5000,,50,99,74.5,Beijing,, China ,Asia
+Barrachd ,medium,2007,1000,,100,149,124.5,Edinburgh,, United Kingdom ,Europe
+Nuvento LLC ,medium,2007,5000,,25,49,37,Overland Park, KS ,USA,North America
+Analytics8 Australia ,medium,2002,0,,0,,0,Sydney,,Australia ,Australia
+Kyra Solutions ,medium,1997,0,,0,,0,Lakeland,,USA,North America
+Zizo ,small,2002,1000,,50,99,74.5,Milton Keynes,, United Kingdom ,Europe
+Cyient Insights ,medium,2013,1000,,50,99,74.5,Troy, MI ,USA,North America
+Ducen ,medium,2004,25000,,50,99,74.5,Grand Island, NY ,USA,North America
+R Square Inc. ,small,1997,0,,0,,0,Princeton, NJ ,USA,North America
+Comptech Associates Inc. ,small,1998,0,,0,,0,Somerset, NJ ,USA,North America
+DATATOM ,medium,2011,5000,,50,99,74.5,Shanghai,, China ,Asia
+Appsilan Asia Pte Ltd ,small,2013,0,,0,,0,Singapore,, Singapore ,Asia
+WebiusSoft ,small,2011,10000,,50,99,74.5,NYC, NY ,USA,North America
+BluePatagon ,small,2008,10000,,100,149,124.5,Buenos Aires,, Argentina ,Latin America
+Black Lake Technologies ,medium,2015,5000,,50,99,74.5,Shanghai,, China ,Asia
+Audaque Data ,medium,2011,5000,,50,99,74.5,Guangzhou,, China ,Asia
+Mitchelle Madison Group | Management Consulting ,medium,1992,0,,0,,0,Jackson, WY ,USA,North America
+Business Data Prospects ,small,2009,10000,,150,199,174.5,Sheffield,, United Kingdom ,Europe
+PredictX ,medium,2014,0,,0,,0,London,, United Kingdom ,Europe
+IBT (Integrated Business Technologies) ,small,1997,0,,0,,0,Sydney,, Australia ,Australia
+"Knowledge Solutions, LLC ",medium,2001,0,,0,,0,Gladstone, NJ ,USA,North America
+WebRadar ,medium,2008,0,,0,,0,Rio de Janeiro,, Brazil ,Latin America
+Oncase ,small,2007,0,,0,,0,Recife,, Brazil ,Latin America
+ADVANCE.AI ,small,2015,5000,,50,99,74.5,Beijing,, China ,Asia
+Info Alchemy Corporation ,medium,2001,0,,0,,0,Pasig City,, Philippines ,Asia
+Mashey ,small,2015,5000,,100,149,124.5,Denver, CO ,USA,North America
+Clear Peak ,small,2000,5000,,100,149,124.5,Greenwood Village, CO ,USA,North America
+emagine Consulting ,large,1994,1000,,50,99,74.5,London,, United Kingdom ,Europe
+Pernix ,small,2015,0,,0,,0,Adelaide,, Australia ,Australia
+ProArch ,medium,2006,0,,0,,0,Marietta, GA ,USA,North America
+Zoox Smart Data ,medium,2010,0,,0,,0,Atlanta, GA ,USA,North America
+Ana-Data Consulting ,medium,1993,0,,0,,0,Jersey City, NJ ,USA,North America
+Acumen Analytics ,small,2004,5000,,100,149,124.5,Plymouth Meeting, PA ,USA,North America
+Onepoint ,small,2005,5000,,100,149,124.5,London,, United Kingdom ,Europe
+Dufrain ,medium,2010,1000,,50,99,74.5,Edinburgh,, United Kingdom ,Europe
+Miro ,medium,2000,5000,,25,49,37,Las Condes,, Chile ,Latin America
+Eyecademy ,small,2008,5000,,100,149,124.5,Glasgow,, United Kingdom ,Europe
+Agile iSS ,medium,2012,0,,100,149,124.5, ,,,
+Spectra Group Inc. ,small,2009,0,,0,,0,Princeton, NJ ,USA,North America
+Acer Innovation ,medium,2015,250000,,150,199,174.5,Schaumburg, IL ,USA,North America
+Teqniksoft ,medium,2008,10000,,25,49,37,Minsk,, Belarus ,Europe
+Videre Analytics Ltd ,small,2013,5000,,25,49,37,Edmonton,, Canada ,North America
+X-Byte Enterprise Crawling | Web Scraping & Data Extraction Company ,medium,2012,1000,,25,49,37,Ahmedabad,, India ,Asia
+CQ Infotech ,medium,2005,0,,0,,0,Cerritos, CA ,USA,North America
+InfoCentric ,medium,2009,0,,0,,0,Melbourne,, Australia ,Australia
+Data Solutions Incorporated ,small,1985,0,,0,,0,Lexington, KY ,USA,North America
+Yotabites Consulting ,small,2014,0,,0,,0,Lenexa, KS ,USA,North America
+Diligent Global ,medium,2010,0,,0,,0,Wilmington, DE ,USA,North America
+jaccomo ,small,2000,0,,0,,0,Shrewsbury, NJ ,USA,North America
+Applied Business Intelligence Group ,small,2007,1000,,50,99,74.5,Jacksonville,,USA,North America
+Sthenica ,small,2013,1000,,50,99,74.5,Telford,, United Kingdom ,Europe
+Data Pathfinders ,small,2014,10000,,150,199,174.5,Bournemouth,, United Kingdom ,Europe
+Buffalo Data & Media ,small,2013,10000,,150,199,174.5,Ipswich,, United Kingdom ,Europe
+Workcentric Solutions Consulting Inc ,medium,2003,100000,,50,99,74.5,Pasig,, Philippines ,Asia
+agileBRICK LLC ,small,2011,0,,0,,0,East Brunswick, NJ ,USA,North America
+Comsense Technologies ,small,2014,5000,,25,,12.5,Pune,, India ,Asia
+Akira Consultancy ,small,2013,1000,,25,49,37,Bengaluru,, India ,Asia
+Atyeti Inc ,medium,2008,0,,0,,0,Princeton, NJ ,USA,North America
+KVRA Tech Inc ,small,2012,0,,0,,0,Piscataway, NJ ,USA,North America
+"Simple&Smart Technologies, Inc. ",medium,2005,5000,,100,149,124.5,Beijing,, China ,Asia
+STRATALYCS Technologies Pvt Ltd ,medium,2017,10000,,25,49,37,Hyderabad,, India ,Asia
+eProSoft America Inc. ,medium,1999,0,,0,,0,Princeton, NJ ,USA,North America
+Metis Pvt. International ,medium,2015,10000,,25,49,37,Islamabad,, Pakistan ,Asia
+Affecto ,medium,1983,5000,,25,49,37,Vilnius,, Lithuania ,Europe
+Experfy Inc ,small,2014,5000,,100,149,124.5,Boston, MA ,USA,North America
+Allied Market Research ,medium,2013,0,,0,,0,Portland, OR ,USA,North America
+Cogent Communications ,medium,1999,0,,0,,0,Washington, DC ,USA,North America
+Yimian Data ,medium,2014,5000,,50,99,74.5,Shenzhen,, China ,Asia
+Deepen ,small,2016,0,,0,,0,Florianpolis,, Brazil ,Latin America
+PREDMAC TECHNOLOGIES PRIVATE LIMITED ,small,2016,1000,,50,99,74.5,thrissur,, India ,Asia
+Commercial Mail Service ,medium,1981,0,,0,,0,Little Rock, AR ,USA,North America
+Nakala Analytics ,small,2017,0,,0,,0,Nairobi,, Kenya ,Africa
+Bi Solutions S.A ,small,2012,0,,0,,0,Quito,, Ecuador ,Latin America
+Nashua Data Solutions ,small,2004,0,,0,,0,Nashua, NH ,USA,North America
+Advanced Analytics and Research Lab ,small,2017,5000,,50,99,74.5,Torionto,, Canada ,North America
+GAVS Technologies ,large,1998,10000,,0,,0, ,,,
+Data Innovations ,medium,1989,0,,0,,0,South Burlington, VT ,USA,North America
+MagnusSoL LLC ,medium,2014,0,,0,,0,Morgantown, WV ,USA,North America
+Saama ,medium,1997,0,,0,,0,Campbell, CA  ,USA,North America
+Bibrainia ,small,2018,5000,,50,99,74.5,Madurai,, India ,Asia
+Busigence Technologies ,small,2012,5000,,50,99,74.5,Bengaluru,, India ,Asia
+Vizyble ,small,2018,5000,,50,99,74.5,Katowice,, Poland ,Europe
+Teknuvo Inc ,small,2009,100000,,200,300,250,BROOKLINE, MA ,USA,North America
+SightSpectrum ,medium,2018,1000,,25,,12.5,Mount Laurel, NJ ,USA,North America
+SmarTek21 ,medium,2006,5000,,25,49,37,Kirkland, WA ,USA,North America
+IBISA ,small,2015,1000,,0,,0, ,,,
+LEROI Consulting ,small,2013,25000,,0,,0,Berlin,, Germany ,Europe
+Hogart Business Intelligence ,small,2009,1000,,50,99,74.5,Warszawa,, Poland ,Europe
+FastWeb ,medium,2006,1000,,25,49,37,Beijing,, China ,Asia
+FreshDataLabs ,small,2018,1000,,25,,12.5,Chennai,, India ,Asia
+DB Whiz ,small,2014,0,,0,,0,Singapore,, Singapore ,Asia
+D1 Insights ,small,2018,5000,,100,149,124.5,Chartridge,, United Kingdom ,Europe
+Vixtel ,medium,2006,5000,,100,149,124.5,Beijing,, China ,Asia
+DataEntryIndia.in ,medium,1999,50000,,25,,12.5,Laguna Beach, CA ,USA,North America
+RCI Technologies Inc. ,small,1983,0,,0,,0,Iselin, NJ ,USA,North America
+Listbroker.com ,small,1982,10000,,150,199,174.5,Bristol,, United Kingdom ,Europe
+Radicalbit ,small,2015,100000,,100,149,124.5,Milan,, Italy ,Europe
+INGIMA ,medium,2011,10000,,100,149,124.5,Paris,, France ,Europe
+"CyberVision, Inc, LLC ",medium,1992,25000,,50,99,74.5,North Miami Beach,,USA,North America
+ATREVIA Portugal ,medium,1988,0,,0,,0,Lisbon,, Portugal ,Europe
+Outsource Bigdata ,small,2012,1000,,25,,12.5,Sanford, NC ,USA,North America
+Mnemo ,medium,2001,0,,0,,0,Madrid,, Spain ,Europe
+Infogain ,large,1990,5000,,100,149,124.5,Los Gatos, CA ,USA,North America
+Knowledgent ,medium,2009,10000,,100,149,124.5,Warren, NJ ,USA,North America
+MovingBI ,small,2015,1000,,25,49,37,,,Argentina ,Latin America
+SINNET ,medium,1999,5000,,50,99,74.5,Beijing,, China ,Asia
+armely ,small,2016,5000,,100,149,124.5,Frisco, TX ,USA,North America
+Transparent Data ,small,2013,1000,,0,,0,Pozna,, Poland ,Europe
+Crew Data Systems ,small,2018,0,,0,,0,Piscataway, NJ ,USA,North America
+Venstar Technology Inc ,medium,2007,0,,0,,0,Arlington Heights, IL ,USA,North America
+I-Business Network ,small,1999,5000,,100,149,124.5,Marietta, GA ,USA,North America
+WIT Inc. ,small,1996,5000,,100,149,124.5,Troy, MI ,USA,North America
+MindStream Analytics ,small,2009,5000,,100,149,124.5,Boston, MA ,USA,North America
+Forrards ,small,2008,1000,,25,,12.5,,,Russia,Europe
+Sikich ,large,1982,5000,,100,149,124.5,Naperville, IL ,USA,North America
+Civis Analytics ,medium,2013,10000,,100,149,124.5,Chicago, IL ,USA,North America
+FluentPro Software Corporation ,small,2009,5000,,50,99,74.5,Redmond, WA ,USA,North America
+QStride ,small,2012,5000,,100,149,124.5,Detroit, MI ,USA,North America
+Beyondsoft ,large,1995,5000,,100,149,124.5,Beijing,, China ,Asia
+West Monroe Partners ,large,2002,5000,,100,149,124.5,Chicago, IL ,USA,North America
+"Inspur Group Co., Ltd. ",large,1989,5000,,100,149,124.5,Jinan,, China ,Asia
+ParentLink - Blackboard ,medium,1989,0,,0,,0,Provo,UT ,USA,North America
+Keystone Solutions ,small,2008,0,,0,,0,Atlanta, GA ,USA,North America
+Fremint ,small,2017,10000,,50,99,74.5,Warsaw,, Poland ,Europe
+Noesis ,small,1995,0,,0,,0,Lisbon,, Portugal ,Europe
+AssessFirst ,small,2002,0,,0,,0,Sentier,, France ,Europe
+Baifendian - Percent ,medium,2009,5000,,100,149,124.5,Beijing,, China ,Asia
+BRQ ,large,1993,0,,0,,0,Sao Paulo,, Brazil ,Latin America
+Analytic Partners ,medium,2000,10000,,100,149,124.5,New York, ,USA,North America
+DataClarity Corporation ,medium,1999,10000,,100,149,124.5,Raleigh, ,USA,North America
+Digital Lumens ,medium,2008,0,,0,,0,Boston, MA ,USA,North America
+Aquila Insight ,medium,2011,10000,,150,199,174.5,Edinburgh,, United Kingdom ,Europe
+AnswerRocket ,small,2013,0,,0,,0,Atlanta, GA ,USA,North America
+NuWare ,small,1994,0,,0,,0,Iselin, NJ ,USA,North America
+"ABBE Technology Solutions, Inc. ",small,1999,0,,0,,0,Makati City,, Philippines ,Asia
+Cage Data ,small,2007,0,,0,,0,Wallingford, CT ,USA,North America
+RAYVEN IT SOLUTIONS ,small,2009,0,,0,,0,Edison, NJ ,USA,North America
+SAVORTEX ,small,2008,0,,0,,0,London,, United Kingdom ,Europe
+ExistBI ,small,2008,10000,,100,149,124.5,Los Angeles, CA ,USA,North America
+Soothsayer Analytics ,small,2014,5000,,100,149,124.5,Livonia, MI ,USA,North America
+Bisend ,small,2010,0,,0,,0,Chicago, IL ,USA,North America
+XDuce ,small,2006,0,,0,,0,Edison, NJ ,USA,North America
+Caura & Co. ,small,2016,10000,,0,,0,Seattle, WA ,USA,North America
+EngineRoom.io® ,small,2011,0,,100,149,124.5,Alexandria,, Australia ,Australia
+Techvantage ,small,2010,0,,0,,0,Kerala,, India ,Asia
+Datalere ,small,2009,5000,,100,149,124.5,Centennial, CO ,USA,North America
+Novedea Systems ,small,2005,5000,,100,149,124.5,Plano, TX ,USA,North America
+Hertzian ,small,2015,0,,0,,0,Truro,, United Kingdom ,Europe
+AVORA ,small,2014,0,,0,,0,London,, United Kingdom ,Europe
+Nezaboodka Software ,small,2011,50000,,25,49,37,Minsk,, Belarus ,Europe
+SSA Data ,small,2007,5000,,25,49,37,Kharkiv,, Ukraine ,Europe
+Fierce Solution LLC ,small,2017,0,,0,,0,Jersey City, NJ ,USA,North America
+Northdoor ,medium,1989,1000,,50,99,74.5,London,, United Kingdom ,Europe
+Viewnext ,large,1991,0,,0,,0,Madrid,, Spain ,Europe
+BRM S.A. ,large,2005,5000,,100,149,124.5,Bogota,, Colombia ,Latin America
+Cardinal Operations ,small,2016,5000,,50,99,74.5,Beijing,, China ,Asia
+YVOLV ,small,2015,0,,0,,0,Dubai,, United Arab Emirates ,Asia
+Bluemetrix ,small,2001,1000,,0,,0,Cork,, Ireland ,Europe
+Chasm Partners ,small,2015,0,,0,,0,Norwalk, CT ,USA,North America
+VLDB Solutions ,small,2007,1000,,100,149,124.5,Liverpool,, United Kingdom ,Europe
+The Ricker Lyman Robotic Company Inc. ,small,2014,50000,,50,99,74.5,Beacon, NY ,USA,North America
+Cohesion Medical ,small,2012,0,,0,,0,Glasgow,, United Kingdom ,Europe
+Appsilon Data Science ,small,2013,25000,,100,149,124.5,Warsaw,, Poland ,Europe
+Asentti ,small,2005,0,,0,,0,Mexico City,, Mexico ,North America
+Clade Solutions ,small,2013,0,,0,,0,Sydney,, Australia ,Australia
+Datashapa ,small,2016,1000,,50,99,74.5,London,, United Kingdom ,Europe
+CST ,small,1997,10000,,100,149,124.5,Svilengrad,, Bulgaria ,Europe
+Emana ,small,2018,10000,,100,149,124.5,Ilha Solteira,, Brazil ,Latin America
+Tezign ,medium,2015,5000,,100,149,124.5,Shanghai,, China ,Asia
+MeritGroup ,large,2003,0,,0,,0,London,, United Kingdom ,Europe
+eTERA ,medium,2004,10000,,100,149,124.5,Washington, DC ,USA,North America
+QueBIT ,medium,2001,10000,,100,149,124.5,Scarsdale, NY ,USA,North America
+PT NEC Indonesia ,medium,1968,0,,0,,0,Jakarta,, Indonesia ,Asia
+"Peking University Founder Group Co., Ltd. ",medium,1986,5000,,100,149,124.5,Beijing,, China ,Asia
+dataxu ,medium,2009,0,,0,,0,Boston, MA ,USA,North America
+Redis Labs ,medium,2011,0,,0,,0,Mountain View, CA ,USA,North America
+Cybereason ,medium,2012,10000,,150,199,174.5,Boston, MA ,USA,North America
+GYANA ,small,2015,0,,0,,0,London,, United Kingdom  ,Europe
+Corexpert ,small,2006,5000,,100,149,124.5,Lyon,, France ,Europe
+SMART CONSULTING SOLUTIONS ,small,2006,5000,,0,,0,Singapore,, Singapore ,Asia
+Synergy Systech LLC ,small,2010,0,,0,,0,Parsippany, NJ ,USA,North America
+CLPS ,large,2005,5000,,25,49,37,Shanghai,, China ,Asia
+Basefarm AS ,medium,2000,5000,,100,149,124.5,Oslo,, Norway ,Europe
+uData ,small,2018,5000,,25,49,37,Sydney,, Australia ,Australia
+WATRIX ,medium,2016,5000,,50,99,74.5,Beijing,, China ,Asia
+Intersys Consulting ,medium,1993,5000,,100,149,124.5,Austin, TX ,USA,North America
+Convergence Consulting Group ,medium,2002,5000,,100,149,124.5,Alpharetta, GA ,USA,North America
+Klika ,medium,2013,5000,,25,49,37,Sarajevo,, Bosnia and Herzegovina ,Europe
+e-Business International Inc ,medium,1999,0,,0,,0,Princeton, NJ ,USA,North America
+Absolutdata Analytics ,medium,2001,10000,,100,149,124.5,Alameda, CA ,USA,North America
+Q3 Technologies ,medium,1991,0,,0,,0,Walpole, MA ,USA,North America
+Nortal ,medium,2000,5000,,25,49,37,Tallinn,, Estonia ,Europe
+Brand PDQ ,small,2013,0,,0,,0,Florence, AL ,USA,North America
+LogicAI ,small,2018,10000,,50,99,74.5,Warsaw,, Poland ,Europe
+Alestra ,large,1996,0,,0,,0,Mexico City,, Mexico ,North America
+CDS Global Cloud ,medium,2005,1000,,25,49,37,Dallas, TX ,USA,North America
